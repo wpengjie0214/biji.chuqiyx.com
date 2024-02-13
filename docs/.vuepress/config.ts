@@ -13,9 +13,9 @@ export default defineUserConfig({
     encrypt: {
       config: {
         // 这会加密整个 guide 目录，并且两个密码都是可用的
-        "/_posts/": ["1234", "5678"],
+        "/apps/": ["1234", "5678"],
         // 这只会加密 config/page.html
-       "/family/Diet.html": "1234",
+      // "/family/Diet.html": "1234",
       },
     },
   }),
