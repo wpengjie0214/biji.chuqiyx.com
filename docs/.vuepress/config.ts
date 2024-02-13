@@ -3,24 +3,7 @@ import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
 import theme from "./theme.js";
-//访问密码权限设置
-import { defineUserConfig } from "vuepress";
-import { hopeTheme } from "vuepress-theme-hope";
 
-//访问密码权限设置开始
-export default defineUserConfig({
-  theme: hopeTheme({
-    encrypt: {
-      config: {
-        // 这会加密整个 guide 目录，并且两个密码都是可用的
-        "/apps/": ["1234", "5678"],
-        // 这只会加密 config/page.html
-      // "/family/Diet.html": "1234",
-      },
-    },
-  }),
-});
-//访问密码权限设置结束
 export default defineUserConfig({
   // 网站语言，默认为中文
   lang: "zh-CN",
