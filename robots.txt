@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://newzone.top/biji.chuqiyx.com/sitemap.xml
+Sitemap: https://www.chuqiyx.com/biji.chuqiyx.com/sitemap.xml
