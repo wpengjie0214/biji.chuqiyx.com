@@ -4,13 +4,13 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "/",
+  hostname: "http://biji.chuqiyx.com",
 
   iconAssets: "iconfont",
 
   author: {
     name: "初柒",
-    url: "/",
+    url: "http://biji.chuqiyx.com",
   },
 
   logo: "/logo.svg",
