@@ -1,22 +1,22 @@
 ---
-title: LearnData 博客：高效知识管理和进阶应用技巧
+title: 初柒印象测试-上传LearnData 博客：高效知识管理和进阶应用技巧
 date: 2024-01-28
-category:
-  - 博客
+类别:
+    - 博客
 order: -57
 ---
 
-> 本文是 LearnData 博客的进阶篇，基础搭建流程查看主页。
+   > 本文是 LearnData 博客的进阶篇，基础搭建流程查看主页。
 
-自从我放弃了 Notion 等传统知识管理工具，转而尝试将[博客转化为知识库](https://newzone.top/posts/2022-08-22-learndata_blog_to_knowledge_management.html)以来，我发现不仅知识的复用率得到显著提升，文章的更新频率也有所增加。从 LearnData 的 GitHub 提交记录可以看出，仅在过去三周内，就进行了 11 次提交，并涉及了 47 个文件的更新。
+ 自从我放弃了 Notion 等传统知识管理工具，转而尝试将 [ 博客转化为知识库 ] ( https://newzone.top/posts/2022-08-22-learndata_blog_to_knowledge_management.html ) 以来，我发现不仅知识的复用率得到显著提升，文章的更新频率也有所增加。从 LearnData 的 GitHub 提交记录可以看出，仅在过去三周内，就进行了 11 次提交，并涉及了 47 个文件的更新。
 
-![](https://img.newzone.top/2023-12-12-19-00-11.png?imageMogr2/format/webp)
+![ ] ( https://img.newzone.top/2023-12-12-19-00-11.png?imageMogr2/format/webp )
 
 但随着使用频率的提升，我也逐渐发现了一些效率上的问题。接下来，我将进一步介绍关于知识搜索和管理方面的 LearnData 博客进阶经验。
 
-## 本地搜索与网页端搜索的权衡
+  ## 本地搜索与网页端搜索的权衡
 
-在 [LearnData 开源笔记](https://newzone.top/) 的早期，只有 37 篇笔记和一些博客文章。当我开始将笔记主题化，用短篇形式记录具体知识点时，内容数量迅速增长，例如，关于 Docker 容器的部署笔记就超过了 20 篇。
+ 在 [ 学习数据 ] ( https://newzone.top/ ) 的早期，只有 37 篇笔记和一些博客文章。当我开始将笔记主题化，用短篇形式记录具体知识点时，内容数量迅速增长，例如，关于 Docker 容器的部署笔记就超过了 20 篇。
 
 随着笔记量的增加，传统的全文本搜索方法开始显得力不从心，我越来越难找到需要的文章。因此，我转而采用了 LearnData 博客集成的 Algolia 和 SearchPro 这两款节点搜索工具进行文章的查询和管理。与 VS Code 的全文本搜索相比，节点搜索不仅提高了搜索效率，更使得大量文章的管理和定位变得更加便捷高效。
 
