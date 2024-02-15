@@ -10,6 +10,15 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
+      text: "Ai绘画-常见问题",
+      icon: "",
+      prefix: "/aiwenti/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    
+    },
+    {
       text: "Ai手册-工具资料",
       icon: "",
       prefix: "/apps/",
@@ -108,7 +117,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 云端部署安装教程",
+          text: " 云端电脑部署安装教程",
           icon: "load",
           prefix: "sdyunduan/",
           link: "",
@@ -142,18 +151,6 @@ export default sidebar({
       ],
 
     },
-
-    /*
-    {
-      text: "Ai绘画-Stable difussion",
-      icon: "",
-      prefix: "/windows/",
-      link: "",
-      collapsible: true,
-      children: "structure",
-    
-    },
-    */
 
     //Ai绘画-Midjourney
 
