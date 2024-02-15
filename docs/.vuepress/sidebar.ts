@@ -92,7 +92,7 @@ export default sidebar({
         //教程前言【必看】
         "bikan1.md",
         {
-          text: " Windows系统本地部署教程",
+          text: " Win系统本地部署教程",
           icon: "plugin",
           prefix: "sdwindows/",
           link: "",
@@ -100,7 +100,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " Macos系统本地部署教程",
+          text: " Mac系统本地部署教程",
           icon: "load",
           prefix: "sdmacos/",
           link: "",
@@ -108,7 +108,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 云端电脑部署安装教程",
+          text: " 云端部署安装教程",
           icon: "load",
           prefix: "sdyunduan/",
           link: "",
@@ -116,7 +116,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门干货图文教程【免费】",
+          text: " 干货&入门教程【免费】",
           icon: "load",
           prefix: "sdrumenmf/",
           link: "",
@@ -124,7 +124,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门到精通教程【收费】",
+          text: " 入门到精通教程【付费】",
           icon: "load",
           prefix: "sdjingtongsf/",
           link: "",
@@ -167,7 +167,7 @@ export default sidebar({
         //教程前言【必看】
         "bikan1.md",
         {
-          text: " Windows系统本地部署教程",
+          text: " Win系统本地部署教程",
           icon: "plugin",
           prefix: "mjwindows/",
           link: "",
@@ -175,7 +175,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " Mac os系统本地部署教程",
+          text: " Mac系统本地部署教程",
           icon: "load",
           prefix: "mjmacos/",
           link: "",
@@ -183,7 +183,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门干货图文教程【免费】",
+          text: " 干货&入门教程【免费】",
           icon: "load",
           prefix: "mjrumenmf/",
           link: "",
@@ -191,7 +191,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门到精通教程【收费】",
+          text: " 入门到精通教程【付费】",
           icon: "load",
           prefix: "mjjingtongsf/",
           link: "",
@@ -202,16 +202,26 @@ export default sidebar({
 
     },
 
-    //Ai项目-变现案例
+    //Ai项目-落地案例
     {
       text: "Ai项目-落地案例",
       icon: "",
-      prefix: "/family/",
+      prefix: "/aixm/",
       link: "",
       collapsible: true,
-      children: "structure",
-    
-  
+      children: [
+        //测试1
+        "bikan1.md",
+        {
+          text: " 项目1",
+          icon: "plugin",
+          prefix: "xiangmu1/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+      ],
+
     },
     //Ai教程-实用教程
     {
