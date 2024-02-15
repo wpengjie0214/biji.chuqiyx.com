@@ -77,25 +77,64 @@ export default sidebar({
       collapsible: true,
       children: "structure",
      },
+      ],
+    },
 
+    //Ai绘画-Stable difussion
 
+    {
+      text: "Ai绘画-Stable difussion",
+      icon: "",
+      prefix: "/aisd/",
+      link: "",
+      collapsible: true,
+      children: [
+        //教程前言【必看】
+        "bikan1.md",
+        {
+          text: " Windows系统本地部署教程",
+          icon: "plugin",
+          prefix: "sdwindows/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: " Mac os系统本地部署教程",
+          icon: "load",
+          prefix: "sdmacos/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: " 云端电脑部署安装教程",
+          icon: "load",
+          prefix: "sdyunduan/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: " 入门干货图文教程【免费】",
+          icon: "load",
+          prefix: "sdrumenmf/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: " 入门到精通教程图文&视频【收费】",
+          icon: "load",
+          prefix: "sdjingtongsf/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
       ],
 
     },
 
-
- /*
-    {
-      text: "Ai写作-ChatGPT",
-      icon: "",
-      prefix: "/services/",
-      link: "",
-      collapsible: true,
-      children: "structure",
-    
-    },
-  */
-    //Ai绘画-Stable difussion
     {
       text: "Ai绘画-Stable difussion",
       icon: "",
