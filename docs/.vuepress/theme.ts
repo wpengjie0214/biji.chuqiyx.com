@@ -54,7 +54,7 @@ export default hopeTheme({
   // sidebarSorter: ['readme', 'order', 'title'],
 
   // copyright 默认为 Copyright © <作者>
-  copyright: `Copyright © 2023-present <a href="https://newzone.top/" target="_blank" rel="noopener noreferrer">LearnData 开源笔记</a>`,
+  copyright: `Copyright © 2024-小柒带你学Ai <a href="http://biji.chuqiyx.com" target="_blank" rel="noopener noreferrer">小柒笔记</a>`,
   displayFooter: true,
   // 页脚，支持使用 HTMLString 以显示备案信息等
   // footer: `MIT Licensed`,
