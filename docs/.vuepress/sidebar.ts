@@ -100,7 +100,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " Mac os系统本地部署教程",
+          text: " Macos系统本地部署教程",
           icon: "load",
           prefix: "sdmacos/",
           link: "",
@@ -124,9 +124,17 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门到精通教程图文&视频【收费】",
+          text: " 入门到精通教程【收费】",
           icon: "load",
           prefix: "sdjingtongsf/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: " 强烈推荐大模型合集",
+          icon: "load",
+          prefix: "sddamoxing/",
           link: "",
           collapsible: true,
           children: "structure",
@@ -135,6 +143,7 @@ export default sidebar({
 
     },
 
+    /*
     {
       text: "Ai绘画-Stable difussion",
       icon: "",
@@ -144,62 +153,55 @@ export default sidebar({
       children: "structure",
     
     },
+    */
+
     //Ai绘画-Midjourney
+
     {
       text: "Ai绘画-Midjourney",
       icon: "",
-      prefix: "",
+      prefix: "/aimj/",
       link: "",
       collapsible: true,
       children: [
+        //教程前言【必看】
+        "bikan1.md",
         {
-          text: "页面开发",
-          icon: "",
-          prefix: "/web/",
+          text: " Windows系统本地部署教程",
+          icon: "plugin",
+          prefix: "mjwindows/",
+          link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: "网站部署",
-          icon: "",
-          prefix: "/deploy/",
+          text: " Mac os系统本地部署教程",
+          icon: "load",
+          prefix: "mjmacos/",
+          link: "",
           collapsible: true,
-          children: [
-            "Static.md",
-            "CloudServices.md",
-            "VPS.md",
-            {
-              text: "部署工具",
-              icon: "emmet",
-              collapsible: true,
-              children: ["GitHub.md", "Cloudflare.md", "MySQL.md", "DNS.md"],
-            },
-          ],
+          children: "structure",
         },
         {
-          text: "代码学习",
-          icon: "",
-          prefix: "/code/",
+          text: " 入门干货图文教程【免费】",
+          icon: "load",
+          prefix: "mjrumenmf/",
+          link: "",
           collapsible: true,
-          children: [
-            "README.md",
-            {
-              text: "Basic",
-              icon: "emmet",
-              collapsible: true,
-              children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
-            },
-            {
-              text: "FrondEnd",
-              icon: "app",
-              collapsible: true,
-              children: ["Vue.md", "HTML.md", "JavaScript.md", "Python.md"],
-            },
-          ],
+          children: "structure",
+        },
+        {
+          text: " 入门到精通教程【收费】",
+          icon: "load",
+          prefix: "mjjingtongsf/",
+          link: "",
+          collapsible: true,
+          children: "structure",
         },
       ],
 
     },
+
     //Ai项目-变现案例
     {
       text: "Ai项目-落地案例",
