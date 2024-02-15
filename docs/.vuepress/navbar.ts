@@ -5,7 +5,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { text: "绘画教程", icon: "blog", link: "/blog" },
   {
-    text: "工具软件",
+    text: "工具资料",
     icon: "app",
     prefix: "/",
     children: [

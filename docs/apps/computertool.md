@@ -1,8 +1,8 @@
 ---
 article: false
-title: 开源工具
+title: 电脑必备工具
 icon: float
-order: 2
+order: 1
 ---
 
 开源工具不仅适用于个人电脑，还可用于项目的前端和后端。此页面将不设使用范围，记录所遇到的使用开源工具。

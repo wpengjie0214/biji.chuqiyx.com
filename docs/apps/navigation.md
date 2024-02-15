@@ -1,6 +1,6 @@
 ---
 article: false
-title: Chrome 扩展
+title: AIGC精品导航
 icon: chrome
 order: 3
 ---

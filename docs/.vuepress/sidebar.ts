@@ -10,15 +10,18 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "Ai手册-工具软件",
+      text: "Ai手册-工具资料",
       icon: "",
       prefix: "/apps/",
       link: "",
       collapsible: true,
       children: [
-        "Applist.md",
-        "toolbox.md",
-        "Chrome.md",
+        //电脑必备工具
+        "computertool.md",
+        //安装绘画软件
+        "install.md",
+        //AIGC精品导航
+        "navigation.md",
         {
           text: "免费AIGC资料整合",
           icon: "plugin",

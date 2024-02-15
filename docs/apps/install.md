@@ -1,8 +1,8 @@
 ---
 article: false
-title: 必备应用
+title: 安装绘画软件
 icon: list
-order: 1
+order: 2
 ---
 
 Windows 自用软件，以开源软件为主。
