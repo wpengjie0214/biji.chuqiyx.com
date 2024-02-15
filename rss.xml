@@ -6,420 +6,253 @@
     <link>http://biji.chuqiyx.com/</link>
     <description>小柒日常笔记知识文档,记录并输出优质的笔记内容和小伙伴们共同提升Ai带给我们的爱好与技能。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Feb 2024 10:38:46 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 10:38:46 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 12:07:22 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 12:07:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>头脑驿站</category>
     <category>工具</category>
-    <category>自动化</category>
-    <category>系统</category>
-    <category>网络</category>
-    <category>服务器</category>
     <item>
-      <title>跳过第三方软件，一步到位实现微信双开的秘密</title>
-      <link>http://biji.chuqiyx.com/posts/2017-04-18-wechat_multi_open.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-04-18-wechat_multi_open.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">跳过第三方软件，一步到位实现微信双开的秘密</source>
-      <description>由于工作需要，我经常在电脑上同时登录多个微信账号。然而，微信规定一个客户端仅能登录一个账号，这导致我不得不同时使用 PC 端和网页版，显著降低了操作效率。随着「微信 For Windows」和「微信 UWP」版本的停用，我们曾依赖的多客户端策略变得几乎无效了。如果你之前安装了旧版的微信 UWP，好好珍惜吧。 要在不使用第三方软件的情况下实现微信的多开，...</description>
+      <title>从失眠到高效早晨：我的 5AM Club 计划分享</title>
+      <link>http://biji.chuqiyx.com/posts/2023-03-31-efficient_morning_5am_club.html</link>
+      <guid>http://biji.chuqiyx.com/posts/2023-03-31-efficient_morning_5am_club.html</guid>
+      <source url="http://biji.chuqiyx.com/rss.xml">从失眠到高效早晨：我的 5AM Club 计划分享</source>
+      <description>失眠问题已经困扰了我十年，尝试过各种方案，包括固定睡眠时间、冥想、食疗等，但均以失败告终。睡眠时间越来越晚，甚至到了凌晨 1-2 点才有睡意。偶然看到 Robin Sharma 的《The 5 AM Club》，提倡每天早上 5 点起床开始一天的工作。开始时我的第一感觉是「疯了」，因为对于我这样严重失眠的人来说，晚上 10 点睡觉已经是很难实现了，更何...</description>
+      <category>头脑驿站</category>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>失眠问题已经困扰了我十年，尝试过各种方案，包括固定睡眠时间、冥想、食疗等，但均以失败告终。睡眠时间越来越晚，甚至到了凌晨 1-2 点才有睡意。偶然看到 Robin Sharma 的《The 5 AM Club》，提倡每天早上 5 点起床开始一天的工作。开始时我的第一感觉是「疯了」，因为对于我这样严重失眠的人来说，晚上 10 点睡觉已经是很难实现了，更何况早上 5 点起床呢？即使成功在 5 点起床，我又如何保证自己的状态？如何保证可以高效地学习和工作呢？但当时我正处于效率低谷，总是被其他事情干扰，作息时间完全被打乱。迷信理论的我，只能去相信它。因此，我结合心流理论制定了自己的「5AM Club」计划。</p>
+<p><strong>5AM Club 计划</strong>：</p>
+<ol>
+<li>早上 5 点起床，使用手环震动闹钟。</li>
+<li>泡杯咖啡，准备早餐，开始第一个工作番茄。</li>
+<li>工作 25 分钟休息 5 分钟，休息期间完成每日必须：拍照打卡发 SNS，吃早餐。</li>
+<li>每天最低完成 8 个番茄，之后可进入长休息区间，进行家务打扫、健身、娱乐。</li>
+<li>晚上 10 点睡觉，保证充足的睡眠时间。</li>
+</ol>
+<figure><img src="https://img.newzone.top/2023-04-07-17-19-27.png?imageMogr2/thumbnail/500x" alt="" tabindex="0" loading="lazy"><figcaption>图源：Storyset</figcaption></figure>
+<p>执行计划一个月后，我在早晨完成了以下事项：读完了 6 本书；推出开源项目 ChatGPT Shortcut，整合了 200 个 prompts 并将 ChatGPT 融入我的日常工作中；从零开始熟悉了 Docusaurus，对 10 个页面组件进行了魔改，并顺利将三个工作网站迁移到了 Docusaurus 上。而几年前，我使用国内一个商用模板花费整整一个月的时间才建成了公司官网。</p>
+<p><strong>5AM Club 给我的效率带来了显著提升</strong>。接下来，我将分享 5AM Club 的理论以及我的个人心得。</p>
+<h2>5 点的奥秘</h2>
+<h3>5 点起，身体受得了吗？</h3>
+<p>5AM Club 最大的误解，可能是<strong>睡眠时间被减少了</strong>。5 点起床可能确实减少了睡眠时间，但它也会<strong>强迫我们早睡从而提高睡眠质量</strong>。</p>
+<p>充足的睡眠对于 5AM Club 至关重要，否则谈何高效率工作。<strong>睡眠时间至少要保证 6 小时以上</strong>。为了能在早上 5 点起床，晚上 9 点半就需要上床，10 点入睡。初开始，生物钟可能无法立即调整到 10 点入睡，可以以半小时为单位逐渐调整。或者提前上床，我刚开始实行 5AM Club 时通常晚上 8 点就上床做准备，强迫自己提早入睡。晚八点入睡会让你在凌晨三点左右醒来，但依旧比晚睡早起要好。当你养成了早睡的习惯后，最后再把就寝时间调整到 10 点则容易得多。</p>
+<blockquote>
+<p>研究人员发现学生的平均睡眠时间是 6.5 小时。研究人员还发现，睡眠不足 6 小时的学生成绩明显下降，每减少一小时睡眠期末 GPA 分数降 0.07。研究人员称，睡眠不足的负面影响是难以消除的，它会持续存在，五到九周后睡眠不足可能会影响学生在课堂上的学习能力。<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p><a class="footnote-anchor" id="footnote-ref1">
+</a></blockquote><a class="footnote-anchor" id="footnote-ref1">
+<p>之前，我睡眠时间为凌晨一点到早上九点，总共有八个小时。然而，我的睡眠质量并不高，手环得分只有 75-85 分。后来，我改变了睡眠作息时间，每晚十点准时睡觉，睡眠时间减少到七个小时，而手环得分始终保持在 90 分以上。</p>
+<figure><img src="https://img.newzone.top/2023-03-31-11-23-57.png?imageMogr2/thumbnail/500x" alt="" tabindex="0" loading="lazy"><figcaption>睡眠时间对比</figcaption></figure>
+</a><h3><a class="footnote-anchor" id="footnote-ref1"></a><a class="header-anchor" href="#为什么-5-点起-做什么"><span>为什么 5 点起？做什么？</span></a></h3>
+<p>虽然名字是 5AM Club，但我一般都早于 5 点起床，具体时间根据自身情况自由调节。有时候如果比较疲劳，我晚上 8 点就上床睡觉，早上 2、3 点醒来，然后开始进入当天的工作。偶尔一两次睡眠不足并不会对身体造成多大的影响，不用过于焦虑。</p>
+<p>早上 5 点到 8 点是我留给自己的<strong>完全属于自己的时间块</strong>，用来处理那些对自己来说重要且长期能产生重大影响的任务。我选择将它安排在早上 5 点是因为这时的精力最佳，也没有其他人的干扰，能让我在一天开始之前拥有完全属于自己的时间。相比之下，晚上的效率较低。</p>
+<p>当天早上要做的事要提前计划并做好准备，这样能够持续不断地、不受干扰地进行工作。最重要的是，要把精力集中在你负责的最重要的工作上。可以专注于个人项目，例如阅读、写作、考证和你特别想做的事情。早起时间不应该用于处理邮件和微信等日常性任务。这类任务虽然占用时间短，但却占用心力。</p>
+<figure><img src="https://img.newzone.top/2023-04-07-17-20-19.png?imageMogr2/thumbnail/500x" alt="" tabindex="0" loading="lazy"><figcaption>图源：Storyset</figcaption></figure>
+<p>最近 Facebook 进行了第二轮大裁员，扎克伯格表示：「自从我们去年裁员以来，一个令人惊讶的结果是许多事情进展得更快了。」员工减少了，项目反而进展更快了？他的解释是，裁员使公司取消了许多低优先级的项目，集中资源于最重要的事情上。不做日常任务的原因也类似于此，不要将自己的宝贵精力浪费在日常任务上。如果你在 5AM Club 的时间内处理日常性任务，那么早起也就没有什么必要了。此外，如果你已经有属于自己的整块时间，也没有必要特意早起。</p>
+<h2>工作前的准备</h2>
+<h3>大脑唤醒</h3>
+<p>根据《心流管理魔方》的介绍，血压、血糖和血氧是保持心流的基础。<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2"></a></sup><a class="footnote-anchor" id="footnote-ref2"> 开始晨间的高效学习/工作前，可以做以下准备：</a></p><a class="footnote-anchor" id="footnote-ref2">
+<ul>
+<li>
+<p>血压：1-2 分钟 HIIT（高强度间歇性运动），让心率达到 130。或是在工作番茄的间隙，进行俯卧撑、拉伸等轻量运动。</p>
+</li>
+<li>
+<p>血糖：早上起床后，优先吃早餐，预防性进食以补充能量。工作过程中每隔 2 个小时加餐一次，比如酸奶、坚果、水果等。</p>
+</li>
+<li>
+<p>血氧：大脑的高效运转同样需要充足的氧气。我在书桌旁放了一支瓶装氧气（非必须），起床后吸一大口氧气，让自己进入清醒状态。</p>
+</li>
+<li>
+<p>口算：心流开始前，可通过口算、思考进行大脑热身。下方是我用 AutoHotkey 编写的随机口算题。</p>
+<div class="language-autohotkey" data-ext="autohotkey" data-title="autohotkey"><pre class="language-autohotkey"><code><span class="token command selector">Random</span><span class="token punctuation">,</span> num1<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">10</span>
+<span class="token command selector">Random</span><span class="token punctuation">,</span> num2<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">10</span>
+<span class="token command selector">Random</span><span class="token punctuation">,</span> num3<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">10</span>
+<span class="token command selector">Random</span><span class="token punctuation">,</span> num4<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">10</span>
+<span class="token command selector">Random</span><span class="token punctuation">,</span> num5<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">10</span>
+<span class="token command selector">Random</span><span class="token punctuation">,</span> num6<span class="token punctuation">,</span> <span class="token number">10</span><span class="token punctuation">,</span> <span class="token number">100</span>
+<span class="token command selector">MsgBox</span><span class="token punctuation">,</span> <span class="token number">262148</span><span class="token punctuation">,</span> <span class="token punctuation">,</span> <span class="token variable">%num1%</span>x<span class="token variable">%num2%</span><span class="token operator">=</span> `n<span class="token variable">%num3%</span>x<span class="token variable">%num4%</span><span class="token operator">=</span> `n<span class="token variable">%num5%</span>x<span class="token variable">%num6%</span><span class="token operator">=</span>
+</code></pre></div></li>
+</ul>
+</a><h3><a class="footnote-anchor" id="footnote-ref2"></a><a class="header-anchor" href="#打卡监督"><span>打卡监督</span></a></h3>
+<p>朋友圈打卡是为了增加自我监督。这就跟自习直播和自我监控视频一样，都是为了增加自己行为的透明度，让外界了解自己的行动。此外，通过照片数量来统计打卡频次，可以方便进行事后总结，同时也能增加自身的成就感。我不喜欢打卡应用，通过应用来打卡是一件很累的事情，因为它们会不断提醒你的错过，这会给你带来压力。我之前买过 Habitity，但现在已经不用了。</p>
+<figure><img src="https://img.newzone.top/2023-03-31-16-15-42.jpg?imageMogr2/thumbnail/500x/format/webp" alt="" tabindex="0" loading="lazy"><figcaption>打卡照片，总被认为是同一张</figcaption></figure>
+<p>为了减轻负担，我通常只拍书房外街道的照片进行日常打卡，并且没有加上文字。由于每天都是类似的照片，经常会有人问我「你为什么总是发一张照片？」对此，我只能尽量改变拍摄角度，让它看起来不完全一样。此外，每隔一段时间，我会对最近的学习和工作成果进行阶段性总结，并在打卡中进行展示。</p>
+<p>如果你不喜欢发朋友圈，那么可以将照片仅用作自我记录，不要因为打卡而给自己增加负担。</p>
+<h2>工作时间安排</h2>
+<p>我使用番茄工作法来安排时间。将任务分解成 25 分钟的小任务，并在每个任务之间休息 5 分钟，这种工作方式可以让你更专注于手头的任务，并在短时间内保持高效的工作状态。工作 25 分钟后休息 5 分钟，工作时间可以适当延长，但不要超过 1 小时。根据统计，大部分强脑力工作者的专注时间平均为 53 分钟。过于追求长时间工作会降低工作效率。</p>
+<p>刚开始 5AM Club 时，我一连工作几个小时，到了下午就会变得极度疲惫，没精力继续工作。现在，我工作 25 分钟，就会强制自己休息 5 分钟。这样一天的精力都得到了很好的保持。</p>
+<p>不是所有工作都是紧急的。放下工作休息一会儿，不会对工作有多大的影响。你想想，很多情况下，是你自己给自己施加了过多的压力吧？</p>
+<p>工作很重要，但<strong>休息同样重要</strong>。虽然有时需要处理紧急工作，但不是每项工作都需要立即处理。对身体来说，一整天都紧绷着高效运转，也许一两个月还能勉强支撑，但如果长期坚持高强度工作，身体肯定会受不了，精力也会下降。工作间隙让自己休息几分钟，会让你的精力得到良好的补充。通常我早上工作后和下午会进行半小时的小憩，用按摩椅和按摩眼罩来缓解身体的疲劳。</p>
+<h2>休息清单</h2>
+<p>为了让你始终保持放松，无需费心思考休息时要做什么，你可以参考下面的列表，制定一份适合自己的休息清单，并将其打印并放在桌边。需要休息时，从清单中挑选 <strong>2-3 个事项</strong>执行即可。我把我的休息清单记录在书房白板上，这样方便随时查看。这个方案之前在《<a href="https://newzone.top/posts/2023-01-26-whiteboard_gtd.html" target="_blank" rel="noopener noreferrer">用白板墙贴记录日常生活</a>》一文中有详细介绍。</p>
+<div class="language-txt" data-ext="txt" data-title="txt"><pre class="language-txt"><code>- 做早餐
+- 洗杯子
+- 倒水、喝水……
+- 吃点东西
+- 简单整理一下桌面
+- 眺望远方
+- 听/唱一首你喜欢的音乐
+- 上厕所
+- 在走廊里溜达
+- 哑铃
+- 做一下拉伸动作
+- 做 3 个深呼吸
+</code></pre></div><h2>下午的疲劳</h2>
+<p>高效的学习工作也会带来较大的精神消耗。就像 @Dsmileyi 曾问我的：「会不会因为起来的早并且已经工作了一段时间，导致白天工作的时候感到疲惫，降低效率？」与早晨相比，下午的精力会减少不少。因此，我将 <strong>90% 的工作时间放在早上</strong>。</p>
+<p>在过去，我工作时间超过 8 小时，从早上 9 点一直工作到晚上 9 点，但期间不断受到干扰，导致工作成果不多。现在，每天只有 4-6 小时的全力工作时间，但工作成果相当于之前三天的量。虽然下午效率降低了，但整体而言，这是值得的。</p>
+<p>值得一提的是，在新的作息时间中，休息和娱乐不再让我感到愧疚。到了下午，我会放松一下，可以做家务、锻炼或者娱乐，想做什么就做什么。而以前，如果我在白天工作时间内偷懒摸鱼，我会感到内疚，然后把这种负面情绪带到工作中，给自己的心理造成负担。</p>
+<figure><img src="https://img.newzone.top/2023-04-07-17-20-58.png?imageMogr2/thumbnail/500x" alt="" tabindex="0" loading="lazy"><figcaption>图源：Storyset</figcaption></figure>
+<h2>晚上十点睡觉</h2>
+<p>如何在晚上十点入睡？这对于很多人来说是一个奢望，尤其是当你已经出现了失眠症状后，更加难以实现。一开始，为了能早睡，我得强迫自己在晚上八点上床，这样才能在晚上十点入睡。然而，绝大多数人都有着自己的工作，很难控制自己的上床时间。</p>
+<p>在执行 5AM Club 计划的过程中，我们无需过于强求精准的作息时间，也不要担心偶尔的早起失败。关键在于逐步养成这个习惯，从而提高生活质量和工作效率。如果你认为自己暂时做不到在晚上十点前入睡，那就将早上五点起床顺延到六点或七点，逐步调整你的生活习惯，直到养成早起的习惯。</p>
+<h2>最后</h2>
+<p>本文的心流部分设计参考了少数派的《心流管理魔方》栏目，而时间管理部分则受到了《吃掉那只青蛙》的启发。如果你感兴趣，建议完整阅读它们。</p>
+<p>我实施 5AM Club 计划一个月以来，生活和工作效率得到了显著提高。通过早起，我得到了宝贵的属于自己的时间块，用来处理那些对自己来说重要且长期能产生重大影响的任务。同时，我调整了作息时间，优化了睡眠质量。在工作时间安排上，采用番茄工作法，让我保持高效工作状态的同时，确保了充足的休息。不过，睡眠和个人的习惯/体质密切相关，夜型人请慎重执行，随便尝试可能会把自己弄得更混乱。</p>
+<p>虽然 5AM Club 并非人人都适用，但它确实帮助我从失眠问题中走出来，提高了工作和学习效率。我相信，只要你能找到适合自己的方法和节奏，你也可以通过早起和合理安排时间，实现从失眠到高效早晨的转变。希望我的 5AM Club 计划分享对你有所启发，祝你早晨愉快、充满活力！</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p><a href="https://www.solidot.org/story?sid=74167" target="_blank" rel="noopener noreferrer">研究发现睡眠时间低于六小时会影响学习成绩</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="footnote2" class="footnote-item"><p><a href="https://sspai.com/post/77435" target="_blank" rel="noopener noreferrer">04 保持心流 - 心流管理魔方</a> <a href="#footnote-ref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+      <enclosure url="https://img.newzone.top/2023-04-07-17-19-27.png?imageMogr2/thumbnail/500x &quot;图源：Storyset&quot;" type="image/"/>
+    </item>
+    <item>
+      <title>不再门口等待！在家「预定」餐厅座位，掌握虚拟定位技巧 - 无需 ROOT</title>
+      <link>http://biji.chuqiyx.com/posts/2023-09-05-virtual_positioning.html</link>
+      <guid>http://biji.chuqiyx.com/posts/2023-09-05-virtual_positioning.html</guid>
+      <source url="http://biji.chuqiyx.com/rss.xml">不再门口等待！在家「预定」餐厅座位，掌握虚拟定位技巧 - 无需 ROOT</source>
+      <description> 这篇文章是上海封城前所写，放在草稿箱中已经一年多了，现在终于可以重新用到了。 家门口的网红餐店总是要排三个小时的队，而且要在店门口扫描二维码。为了避免在门口浪费时间，我经常选择在家中提前将我的手机定位设至餐厅附近，然后扫码排队。只有当快轮到我时，我才从家出发。想知道我是如何实现这个小技巧的吗？ 虚拟定位 首先，在电脑上安装安卓模拟器，文中以蓝叠模拟器...</description>
       <category>工具</category>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>由于工作需要，我经常在电脑上同时登录多个微信账号。然而，微信规定一个客户端仅能登录一个账号，这导致我不得不同时使用 PC 端和网页版，显著降低了操作效率。随着「微信 For Windows」和「微信 UWP」版本的停用，我们曾依赖的多客户端策略变得几乎无效了。如果你之前安装了旧版的微信 UWP，好好珍惜吧。</p>
-<p>要在不使用第三方软件的情况下实现微信的多开，现在只能依赖微信自身的一个小漏洞。通过快速双击微信图标，可以实现多开。</p>
-<h2>双击多开</h2>
-<p>要开启多个微信，只需<strong>按住回车键，同时左键点击微信图标</strong>，点击次数决定了开启的微信数量。这个小技巧是@刘舒怡分享的：</p>
-<blockquote>
-<p>只要在 2 秒内快速连续双击打开软件，就能弹出很多登录界面，你想登多少个就登多少个</p>
-</blockquote>
-<p>如果你不喜欢手动点击，可以使用以下脚本，保存为 <code>start_wechat.bat</code> 文件。这个脚本将启动三个微信，你可以根据需要复制更多的 start 行。</p>
-<div class="language-bash" data-ext="sh" data-title="sh"><pre class="language-bash"><code>@echo off
-start <span class="token string">"WeChat"</span> <span class="token string">"C:\Program Files\Tencent\WeChat\WeChat.exe"</span>
-start <span class="token string">"WeChat"</span> <span class="token string">"C:\Program Files\Tencent\WeChat\WeChat.exe"</span>
-start <span class="token string">"WeChat"</span> <span class="token string">"C:\Program Files\Tencent\WeChat\WeChat.exe"</span>
-</code></pre></div><p>有开发者为微信和 QQ 制作了多开补丁 <a href="https://github.com/huiyadanli/RevokeMsgPatcher" target="_blank" rel="noopener noreferrer">RevokeMsgPatcher</a>，可以从国内链接下载：<a href="https://wwva.lanzouq.com/irUIX187hz3c" target="_blank" rel="noopener noreferrer">RevokeMsgPatcher.v1.6.zip</a>。使用这个补丁后，每次点击应用图标都会打开新的登录窗口，这取决于个人需求。我更喜欢直接通过 <code>.bat</code> 脚本来实现多开。</p>
-<h2>开机多开微信</h2>
-<p>如果你希望电脑开机时自动多开微信，可以把上述脚本的快捷方式放入 Windows 的开机「启动」文件夹。通常这个文件夹路径为 <code>%AppData%\Microsoft\Windows\Start Menu\Programs\Startup</code>。或者，打开「运行」对话框，输入 <code>shell:startup</code>，回车即可。</p>
-<figure><img src="https://img.newzone.top/2022-05-06-04-23-49.png?imageMogr2/format/webp" alt="开机多开微信" tabindex="0" loading="lazy"><figcaption>开机多开微信</figcaption></figure>
-<h2>多客户端（已失效）</h2>
-<blockquote>
-<p>从 2024 年开始，「微信 For Windows」和「微信 UWP」均已下架，新版的微信 Store 版也无法与微信 PC 版同时安装。因此，这一方案仅供记录，已不再有效。</p>
-</blockquote>
-<p>打开「运行」对话框，输入并启动「应用商店」或「Microsoft Store」，搜索并安装「微信 For Windows」「微信 UWP」。</p>
-<figure><img src="https://img.newzone.top/2022-05-06-04-21-30.png?imageMogr2/format/webp" alt="安装微信客户端" tabindex="0" loading="lazy"><figcaption>安装微信客户端</figcaption></figure>
-<p>安装后，你可以同时启动微信 PC 版和这两个版本，互不干扰。如果你希望开机时自动启动这两个微信，可以把它们的快捷方式放在开机启动文件夹内。</p>
-<figure><img src="https://img.newzone.top/2022-05-06-04-21-40.png?imageMogr2/format/webp" alt="多客户端微信" tabindex="0" loading="lazy"><figcaption>多客户端微信</figcaption></figure>
-<h2>总结</h2>
-<p>应用多开似乎越来越不受欢迎，比如新版 QQ 已经移除了多账户登录选项。但实际上，用户是怎样想的呢？这又有谁在乎呢？</p>
-]]></content:encoded>
-      <enclosure url="https://img.newzone.top/2022-05-06-04-23-49.png?imageMogr2/format/webp" type="image/"/>
-    </item>
-    <item>
-      <title>RSS 入门篇：Feed43&amp;FeedEx-为静态网页定制 RSS 源</title>
-      <link>http://biji.chuqiyx.com/posts/2017-04-22-rss_feed43_feedex.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-04-22-rss_feed43_feedex.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">RSS 入门篇：Feed43&amp;FeedEx-为静态网页定制 RSS 源</source>
-      <description>迷上 IFTTT 等自动化应用后，我需要为各种不同的网页定制 RSS 源。其中，最容易入门的工具是 FEED43。本文是一篇介绍如何使用 FEED43 定制 RSS 源的入门指南。 ► 开始烧制属于自己的 feed 1. 进入网页 FEED43 不需要注册，点击「Create your own feed」即可使用。 2. 选定 RSS 网页 在「Ste...</description>
-      <category>自动化</category>
-      <pubDate>Sat, 22 Apr 2017 12:54:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>迷上 IFTTT 等自动化应用后，我需要为各种不同的网页定制 RSS 源。其中，最容易入门的工具是 FEED43。本文是一篇介绍如何使用 FEED43 定制 RSS 源的入门指南。</p>
-<p><strong>► 开始烧制属于自己的 feed</strong></p>
-<h2>1. 进入网页</h2>
-<p><a href="http://www.feed43.com/" target="_blank" rel="noopener noreferrer">FEED43</a> 不需要注册，点击「Create your own feed」即可使用。</p>
-<figure><img src="https://pic1.zhimg.com/v2-b5da0b08f632376fad3925a779e373b4_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2>2. 选定 RSS 网页</h2>
-<p>在「Step1. Specify source page address (URL)」中输入目标网址，将 Page Source 中的内容复制到 txt 文档中，以便之后编写抓取规则。</p>
-<figure><img src="https://pic1.zhimg.com/v2-1b687a5b1c325ba6d04fbdcc13b95668_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>如果 Page Source 显示为乱码，可将 Encoding 设置为 <strong>UTF-8</strong> 。</p>
-<h2>3. 定制 RSS 抓取规则</h2>
-<p>「Global Search Pattern」是选择要搜索的范围，建议不填此项，这样会搜索整个页面。「Item (repeatable) Search Pattern」这部分最重要，是我们要抓取的内容。</p>
-<figure><img src="https://pic1.zhimg.com/v2-b1fa90c59739bddc0c27134cd36ba6bc_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>仔细查看上方获取到的 Page Source，找到需要抓取的元素，输入到「Item (repeatable) Search Pattern」。</p>
-<p>测试网址：<code>http://news.163.com/special/0001386F/rank_whole.html</code>。</p>
-<p>需要抓取的源代码：</p>
-<div class="language-html" data-ext="html" data-title="html"><pre class="language-html"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>tr</span><span class="token punctuation">&gt;</span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>td</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>red<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
-    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span>2<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span>
-    <span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>更时尚更运动 车展实拍解析红旗 H5<span class="token punctuation">"</span></span>
-      <span class="token punctuation">&gt;</span></span>更时尚更运动 车展实拍解析红旗 H5<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span>
-    <span class="token punctuation">&gt;</span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>td</span><span class="token punctuation">&gt;</span></span>
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>td</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>cBlue<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>11211615<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>td</span><span class="token punctuation">&gt;</span></span>
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>tr</span><span class="token punctuation">&gt;</span></span>
-</code></pre></div><figure><img src="https://pic2.zhimg.com/v2-cf6dbf2c09189f7517ec63abdc80c50d_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><strong>抓取规则</strong>：</p>
-<div class="language-html" data-ext="html" data-title="html"><pre class="language-html"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>tr</span><span class="token punctuation">&gt;</span></span>
-  {*}
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>td</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>{*}<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">&gt;</span></span>{*}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>{%}<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>{%}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>td</span><span class="token punctuation">&gt;</span></span>
-  {*}
-  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>td</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>cBlue<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>{*}<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>td</span><span class="token punctuation">&gt;</span></span>
-  {*}
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>tr</span><span class="token punctuation">&gt;</span></span>
-</code></pre></div><p>点击 Extract，进行抓取。</p>
-<figure><img src="https://pic4.zhimg.com/v2-e9486741a6229ab258a95147f584571b_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2>4. 整理 rss 输入格式</h2>
-<p>「Define output format」是 Feed 的属性，通常前三项会被自动抓取一，后三项将之前获取的 item 里面的元素填入即可，<code>{%1}</code> 对应的是链接，所以填入「Item Link」，<code>{%2}</code> 对应标题则填入到「Item Title」。</p>
-<figure><img src="https://pic1.zhimg.com/v2-b4614f5c46090f2eb762aac87d604350_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>然后点击「preview」，完成制作，同时可以查看预览效果。</p>
-<figure><img src="https://pic2.zhimg.com/v2-498bf1f1c0b14da172498b58f59e39b9_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>如果注册了 FEED43 的账号，可以修改 RSS 地址，但链接不能使用中文，否则会导致 RSS 出错。</p>
-<h2>5. 获取 RSS 地址</h2>
-<p>点击 Feed URL 可得 RSS 地址，样例是 <a href="https://www.feed43.com/dianji.xml" target="_blank" rel="noopener noreferrer">https://www.feed43.com/dianji.xml</a>。</p>
-<figure><img src="https://pic1.zhimg.com/v2-f3b00e876d8df136f7d354b4fc22f900_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>在阅读器中的效果如下：</p>
-<figure><img src="https://pic4.zhimg.com/v2-6d8f503ff3da16eb985ca1d3ae2de98f_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2>6. 全文抓取</h2>
-<p>FEED43 导出的条目需要点击链接才能查看内容。要在 RSS 中展示全文，需要通过 FeedEx 再转换一次。注意：FEED43 免费用户过多，需要在浏览器中打开一次才能获得真实链接（一般为 <code>http://node2.feed43.com</code>）。FeedEx 需要使用真实链接，一般 3 分钟内转换完毕。</p>
-<p>FeedEx: <a href="https://feedex.net/" target="_blank" rel="noopener noreferrer">https://feedex.net/</a></p>
-<figure><img src="https://pic4.zhimg.com/v2-8e3701adffa1d6fb4ea10dda2704988b_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Feeds43 的免费版每 6 小时抓取一次，最多显示最新的 20 条内容。如果网页源更新较频繁，建议使用 RSSHub 和 Huginn。</p>
-<h2>RSS 合集</h2>
-<p>汇总的 RSS 永久订阅 feeds 均通过 RSSHub 和 Huginn 制作。如果有兴趣自制 RSS，可参考以下教程。</p>
-<ul>
-<li>
-<p><a href="https://newzone.top/posts/2017-04-22-rss_feed43_feedex.html" target="_blank" rel="noopener noreferrer">RSS 入门篇：FEED43&amp;FeedEx-为静态网页定制 RSS 源</a></p>
-</li>
-<li>
-<p><a href="https://newzone.top/posts/2018-10-07-huginn_scraping_any_website.html" target="_blank" rel="noopener noreferrer">RSS 进阶篇：Huginn - 真·为任意网页定制 RSS 源（PhantomJs 抓取）</a></p>
-</li>
-<li>
-<p><a href="https://newzone.top/posts/2019-04-01-rsshub_noob.html" target="_blank" rel="noopener noreferrer">RSS 速成篇：RSSHub 捡现成的轮子</a></p>
-</li>
-<li>
-<p><a href="https://newzone.top/posts/2020-03-25-rsshub_on_vps.html" target="_blank" rel="noopener noreferrer">RSS 速成篇 2：RSSHub 自部署</a></p>
-</li>
-<li>
-<p><a href="https://newzone.top/posts/2021-10-23-nas_with_rsshub_and_huginn.html" target="_blank" rel="noopener noreferrer">RSS 完结篇：节省千元服务费，RSSHub、Huginn 转移 NAS</a></p>
-</li>
-<li>
-<p><a href="https://newzone.top/posts/2022-03-17-rss_persistent_link_collection.html" target="_blank" rel="noopener noreferrer">RSS 汇总篇：RSS 永久链接合集，拒绝 RSS 失效</a></p>
-</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://pic1.zhimg.com/v2-b5da0b08f632376fad3925a779e373b4_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>office 2016 安装程序报错解决办法</title>
-      <link>http://biji.chuqiyx.com/posts/2017-07-28-office_2016_installer_error.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-07-28-office_2016_installer_error.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">office 2016 安装程序报错解决办法</source>
-      <description>重新安装 Office 系统或更改安装组件时，经常提示：「找不到有效的安装源」，但实际这些文件都能在安装包内找到。这是由于注册表和组件而导致的报错，「找不到有效的安装源」并不是真实原因，解决方法查看下方。 解决方法 打开 regedit.exe，在注册表中找到路径 计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Of...</description>
-      <category>系统</category>
-      <pubDate>Fri, 28 Jul 2017 11:02:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>重新安装 Office 系统或更改安装组件时，经常提示：「找不到有效的安装源」，但实际这些文件都能在安装包内找到。这是由于注册表和组件而导致的报错，<strong>「找不到有效的安装源」并不是真实原因</strong>，解决方法查看下方。</p>
-<figure><img src="https://pic3.zhimg.com/v2-85bd2a49a47ee6d0c8eade7b3c249516_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2>解决方法</h2>
-<ol>
-<li>
-<p>打开 regedit.exe，在注册表中找到路径 <code>计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Delivery\SourceEngine\Downloads\{90160000-00BA-0804-1000-0000000FF1CE}-C\Sources\PROPLUS16(RG)-6186D162</code>。</p>
-</li>
-<li>
-<p>修改 Path 数据，改为安装包位置，比如 <code>F:\5.软件资源\系统重装\SW_DVD5_Office_Professional_Plus_2016_64Bit_ChnSimp_MLF_X20-42426\groove.zh-cn</code>。</p>
-<figure><img src="https://pic3.zhimg.com/v2-650ede86dd191a8f0a1cd6e9b815377a_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>在 C 盘建立安装组件：</p>
-<ul>
-<li>把安装包路径 <code>\groove.zh-cn\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-00BA-0804-1000-0000000FF1CE}-C</code> 目录下 (如果没有这个目录就自己建立)。</li>
-<li>把安装包路径 <code>\proplus.ww\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-0011-0000-1000-0000000FF1CE}-C</code>。</li>
-</ul>
-</li>
-<li>
-<p>将需要的程序文件放入 MSOCache 路径
-MSOCache 其它的目录下内容同样根据注册表的内容把它指示的光盘中的安装文件复制到相应的目录下。如果没有那个目录就要自己建立，类似的目录一共有 12 个。
-如果不想全装可以只选择需要的软件，下面以 Onenote 和 Access 为例。</p>
-<ul>
-<li><strong>Onenote</strong> 把安装包路径 <code>\onenote.zh-cn\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-00A1-0804-1000-0000000FF1CE}-CC</code>。</li>
-<li><strong>Access</strong> 把安装包路径 <code>\access.zh-cn\</code> 下的文件复制到 <code>C:\MSOCache\All Users\{90160000-0015-0804-1000-0000000FF1CE}-C</code>。</li>
-</ul>
-</li>
-<li>
-<p>最后进入安装包运行 setup.exe 安装正常。</p>
-</li>
-</ol>
-<p>Office 组件报错大都是由于 MSOCache 目录被删，建议安装 Office 后不要删除该目录。使用优化工具时，要注意保留 MSOCache 目录及其下的文件。</p>
-]]></content:encoded>
-      <enclosure url="https://pic3.zhimg.com/v2-85bd2a49a47ee6d0c8eade7b3c249516_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>OneNote 2016 无法登陆问题解决</title>
-      <link>http://biji.chuqiyx.com/posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">OneNote 2016 无法登陆问题解决</source>
-      <description>OneNote 安装后，提示输入账号，但点击「下一步」始终没反应，无法进行登陆。 打开 IE 浏览器，访问 live.com，如果网页提示「登录需要启动 JavaScript」，说明问题的根源出在 IE 的设置上。 点击「IE 设置」&amp;gt;「Internet 选项」&amp;gt;「安全」&amp;gt;「自定义级别」，然后启用脚本选项的「Java 小程序脚本」和「活动脚本」。 完成...</description>
-      <category>系统</category>
-      <pubDate>Sat, 29 Jul 2017 15:19:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>OneNote 安装后，提示输入账号，但点击「下一步」始终没反应，无法进行登陆。</p>
-<figure><img src="https://pic4.zhimg.com/v2-d5945359b896ffd09d9973e9597ec06b_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>打开 IE 浏览器，访问 live.com，如果网页提示「登录需要启动 JavaScript」，说明问题的根源出在 IE 的设置上。</p>
-<figure><img src="https://pic1.zhimg.com/v2-cc00b3039f755b92f9ae511c8b7debd0_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>点击「IE 设置」&gt;「Internet 选项」&gt;「安全」&gt;「自定义级别」，然后启用脚本选项的「Java 小程序脚本」和「活动脚本」。</p>
-<figure><img src="https://pic2.zhimg.com/v2-717bf3c8b62748b62a04219435b8a75d_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="https://pic4.zhimg.com/v2-25697b0c27aa8780c532b7a03a78dcbf_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>完成设置后，即可正常登录并打开 OneNote。</p>
-<figure><img src="https://pic4.zhimg.com/v2-ff20ef8aa22215cba64b879775dfdf4f_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content:encoded>
-      <enclosure url="https://pic4.zhimg.com/v2-d5945359b896ffd09d9973e9597ec06b_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>电脑关机了，第二天一看确又开着的？让系统正常关机！</title>
-      <link>http://biji.chuqiyx.com/posts/2017-09-02-forced_shutdown.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-09-02-forced_shutdown.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">电脑关机了，第二天一看确又开着的？让系统正常关机！</source>
-      <description>晚上明明按下电脑的关机键，第二天早上却发现电脑开了一晚上？这是因为后台和 GUI 应用程序在阻止或取消关机，使得系统无法正常关机。为解决此问题，可以按照以下方法授予系统自动关机权限。 手工操作 点击「开始菜单」，搜索「Regedit」，进入注册表编辑器。 打开窗口后，向注册表上方菜单输入路径 计算机\HKEY_CURRENT_USER\Control ...</description>
-      <category>系统</category>
-      <pubDate>Sat, 02 Sep 2017 00:38:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>晚上明明按下电脑的关机键，第二天早上却发现电脑开了一晚上？这是因为后台和 GUI 应用程序在阻止或取消关机，使得系统无法正常关机。为解决此问题，可以按照以下方法授予系统自动关机权限。</p>
-<h2>手工操作</h2>
-<ol>
-<li>
-<p>点击「开始菜单」，搜索「Regedit」，进入注册表编辑器。</p>
-</li>
-<li>
-<p>打开窗口后，向注册表上方菜单输入路径 <code>计算机\HKEY_CURRENT_USER\Control Panel\Desktop</code>。</p>
-</li>
-<li>
-<p>在右侧窗格中找到 <code>AutoEndTasks</code> 键值。若不存在，则新建一个名为 <code>AutoEndTasks</code> 的「字符串值」，并将键值的数值设为 <code>1</code>。AutoEndTasks 表示自动结束失去响应的程序任务。<code>0</code> 表示 false（默认值），而 <code>1</code> 表示 true，电脑会自动结束失去响应的程序。</p>
-<figure><img src="https://pic3.zhimg.com/v2-c643b9737b35f9dd9a8382c5653e3d3e_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>查找或创建 <code>WaitToKillAppTimeout</code> 字符串值，并设定其数值为 2000。2000 以毫秒计，表示在程序失去响应后，系统将等待 2 秒后自动结束相应程序。</p>
-</li>
-</ol>
-<p>按照以上步骤操作，即可设置电脑默认为强制关机。</p>
-<h2>通过脚本修改</h2>
-<p>如果你不愿手动修改注册表，可以选择以下三种脚本之一进行操作。</p>
-<h3>注册表脚本修改</h3>
-<p>复制下列命令并粘贴至文本编辑器（如记事本）中，保存文件，扩展名为 <code>.reg</code>，如 settings.reg。双击该文件即可将修改应用到注册表中。（脚本由 @daxixi 提供）</p>
-<div class="language-reg" data-ext="reg" data-title="reg"><pre class="language-reg"><code>Windows Registry Editor Version 5.00
-
-[HKEY_CURRENT_USER\Control Panel\Desktop]
-"AutoEndTasks"="1"
-"WaitToKillAppTimeout"="2000"
-</code></pre></div><h3>cmd 修改</h3>
-<p>以管理员权限运行 cmd（命令提示符），输入以下命令：</p>
-<div class="language-cmd" data-ext="cmd" data-title="cmd"><pre class="language-cmd"><code>reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v AutoEndTasks /t REG_SZ /d 1 /f
-
-reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v WaitToKillAppTimeout /t REG_SZ /d 2000 /f
-</code></pre></div><h3>PowerShell 修改</h3>
-<p>以管理员权限运行 PowerShell，输入以下命令：</p>
-<div class="language-powershell" data-ext="powershell" data-title="powershell"><pre class="language-powershell"><code>cmd <span class="token operator">/</span>c reg add <span class="token string">"HKEY_CURRENT_USER\Control Panel\Desktop"</span> <span class="token operator">/</span>v AutoEndTasks <span class="token operator">/</span>t REG_SZ <span class="token operator">/</span>d 1 <span class="token operator">/</span>f
-
-cmd <span class="token operator">/</span>c reg add <span class="token string">"HKEY_CURRENT_USER\Control Panel\Desktop"</span> <span class="token operator">/</span>v WaitToKillAppTimeout <span class="token operator">/</span>t REG_SZ <span class="token operator">/</span>d 2000 <span class="token operator">/</span>f
-</code></pre></div><p>——————————</p>
-<p>网上流行一种通过修改「gpedit.msc」达到快速关机的方法，但实际测试结果表明，这种方法并<strong>不能实现强制关机</strong>。以下为这种方法的操作流程记录，仅供参考：</p>
-<ol>
-<li>
-<p>点击桌面左下角“windows”图标，选择“运行”选项；</p>
-</li>
-<li>
-<p>进入运行窗口，输入“gpedit.msc”命令，按下回车键确定；</p>
-</li>
-<li>
-<p>打开本地组策略编辑器界面，依次展开“计算机配置——管理模板——系统——关机选项”文件夹；鼠标右击右侧“关闭会阻止或取消关机的应用程序的自动终止功能”选项，接着选择“编辑”功能；将弹出窗口选项更改成“已启用”，然后点击“应用——确定”按钮。</p>
-<figure><img src="https://pic4.zhimg.com/v2-4b736585b25509b036935a2f9c37d843_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>但开启后，提示程序没有响应，无法关机。</p>
-<figure><img src="https://pic4.zhimg.com/v2-46fafee0cb6e212e793fc80268ab0917_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-</ol>
-<p>修改“gpedit.msc”虽然可以撤销程序阻止关机的权限，但它并没有赋予关机进程对程序的关闭权限，因此并不能达到强制关机的效果。</p>
-]]></content:encoded>
-      <enclosure url="https://pic3.zhimg.com/v2-c643b9737b35f9dd9a8382c5653e3d3e_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>加速 SMB 协议，让 PC 变身小型 NAS</title>
-      <link>http://biji.chuqiyx.com/posts/2017-09-03-smb_lan_sharing.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-09-03-smb_lan_sharing.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">加速 SMB 协议，让 PC 变身小型 NAS</source>
-      <description>Windows 系统开启 SMB 协议： 打开「控制面板」窗口，在「类别」查看方式下单击「程序」。 打开「程序」窗口，单击「启用或关闭 windows 功能」。 打开「windows 功能」窗口，勾选 SMB 直通。 勾选「远程差分压缩 API 支持」。 网上很多教程都要求关闭“远程差分压缩”复选框，这是对“远程差分压缩”的误解。 官方解释：远程差分压...</description>
-      <category>系统</category>
-      <pubDate>Sun, 03 Sep 2017 20:57:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Windows 系统开启 SMB 协议：</p>
-<ol>
-<li>
-<p>打开「控制面板」窗口，在「类别」查看方式下单击「程序」。</p>
-<figure><img src="https://pic1.zhimg.com/v2-af3e5c2a16a1f245ac6584097c53be60_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>打开「程序」窗口，单击「启用或关闭 windows 功能」。</p>
-<figure><img src="https://pic1.zhimg.com/v2-36207f67a5eb3aeb8ee7c1ae855b13dc_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>打开「windows 功能」窗口，勾选 SMB 直通。</p>
-<figure><img src="https://pic3.zhimg.com/v2-b1feb5554e6f1da003266be9cb470dfe_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>勾选「远程差分压缩 API 支持」。</p>
-<figure><img src="https://pic4.zhimg.com/v2-c5fc3e3d771b6e4bd2516372c69b340b_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-</ol>
-<p>网上很多教程都要求关闭“远程差分压缩”复选框，这是对“远程差分压缩”的误解。</p>
-<p>官方解释：远程差分压缩 (RDC) 功能是一组应用程序编程接口 (API)，这些应用程序可用于确定某个文件集是否发生了变化，如果是，就检测哪部分文件进行了更改。RDC 检测文件中数据的插入、删除和重新排列，使应用程序能够仅复制文件的已更改部分。这对于在有限带宽网络（如广域网 (WAN) 连接）上复制文件非常有用。</p>
-]]></content:encoded>
-      <enclosure url="https://pic1.zhimg.com/v2-af3e5c2a16a1f245ac6584097c53be60_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2)</title>
-      <link>http://biji.chuqiyx.com/posts/2017-10-18-light_cat_e8-c-epon_admin.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-10-18-light_cat_e8-c-epon_admin.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2)</source>
-      <description>为什么要获得光猫超级密码？ 它可以用于端口映射（eMule high ID）和桥接模式（路由器掌控拨号，但不兼容固定电话）。网上关于光猫超级密码的获取攻略大多是在 2012-14 年发布的，现在已经不能使用了。 破解测试环境 运营商：上海电信 光猫型号：贝尔 E8-C-EPON 硬件版本：RG201O-CA_V1A2 软件版本：E201OCAA2V11...</description>
-      <category>网络</category>
-      <pubDate>Wed, 18 Oct 2017 18:28:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>为什么要获得光猫超级密码？</h2>
-<p>它可以用于端口映射（eMule high ID）和桥接模式（路由器掌控拨号，但不兼容固定电话）。网上关于光猫超级密码的获取攻略大多是在 2012-14 年发布的，现在已经不能使用了。</p>
-<h2>破解测试环境</h2>
-<p>运营商：上海电信
-光猫型号：贝尔 E8-C-EPON
-硬件版本：RG201O-CA_V1A2
-软件版本：E201OCAA2V11S</p>
-<h2>光猫超级密码破解</h2>
-<ol>
-<li>
-<p>地址栏输入 <code>192.168.1.1</code>，用户名：&lt;光猫背面&gt;，密码：&lt;光猫背面&gt;，登录管理界面。</p>
-<figure><img src="https://pic1.zhimg.com/v2-9e43bc86b9095f3f6c2cfa4bd58dcd68_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>在浏览器地址栏输入 <code>192.168.1.1/backupsettings.txt</code>，将 <code>backupsettings.txt</code> 文件导出并备份在电脑上。如果无法打开，请改为输入 <code>192.168.1.1/backupsettings.conf</code>，并做好备份。</p>
-</li>
-<li>
-<p>打开下载的 <code>backupsettings.txt</code> 或 <code>backupsettings.conf</code> 文件，搜索 <code>TeleComAccount</code>，两个 password 之间就是超级密码。超级账号是 <code>telecomadmin</code>。</p>
-<figure><img src="https://pic3.zhimg.com/v2-ee441dd18cc8e5f6303fdaef82b6d476_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>输入地址 <code>192.168.1.1</code>，用刚获取的超级密码登录，然后可以进行端口映射和设备桥接。</p>
-<figure><img src="https://pic1.zhimg.com/v2-31d6bb6b90be541c186a360fe2dd323c_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-</ol>
-<p>如果新安装的光猫无法获取超级密码，可以使用运营商的官方应用进行映射。</p>
-]]></content:encoded>
-      <enclosure url="https://pic1.zhimg.com/v2-9e43bc86b9095f3f6c2cfa4bd58dcd68_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>光猫改造 篇二：光猫 + 路由器，实现端口映射</title>
-      <link>http://biji.chuqiyx.com/posts/2017-10-18-light_cat_port_forwarding.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2017-10-18-light_cat_port_forwarding.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">光猫改造 篇二：光猫 + 路由器，实现端口映射</source>
-      <description>光猫默认没有管理权限，需要先获得光猫的超管密码，参考光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2）。 光猫端口映射步骤： 登陆光猫管理地址 192.168.1.1，应用 → 高级 NAT 设置 →DMZ 设置，启用 DMZ 主机绑定路由器地址（路由器 WAN 口 IP 地址 -192.168.1.X) 登陆路由器...</description>
-      <category>网络</category>
-      <pubDate>Wed, 18 Oct 2017 22:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>光猫默认没有管理权限，需要先获得光猫的超管密码，参考<a href="https://newzone.top/posts/2017-10-18-Light_cat_E8-C-EPON_admin.html" target="_blank" rel="noopener noreferrer">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2）</a>。</p>
-<p><strong>光猫端口映射步骤：</strong></p>
-<ol>
-<li>
-<p>登陆光猫管理地址 192.168.1.1，应用 → 高级 NAT 设置 →DMZ 设置，启用 DMZ 主机绑定路由器地址（路由器 WAN 口 IP 地址 -192.168.1.X)</p>
-<figure><img src="https://pic2.zhimg.com/v2-658d5433201b79da169a520f4b19d495_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>登陆路由器管理地址 192.168.X.X。这里已梅林 AC5300 为图例。</p>
-<figure><img src="https://pic4.zhimg.com/v2-32825a6d3d75f4bfe5668f1b0d6c6683_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-<li>
-<p>在路由器设置选项中找到“端口转发”，按要求设置端口。我这是 eMule TCP 和 UDP 转发，设置完成后，变成 High ID。</p>
-<figure><img src="https://pic2.zhimg.com/v2-8f3eb2c42fd5d1a98f1345c6a5855e99_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="https://pic2.zhimg.com/v2-b4f5179278da52409f4a04ce7d139f99_r.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-</ol>
-]]></content:encoded>
-      <enclosure url="https://pic2.zhimg.com/v2-658d5433201b79da169a520f4b19d495_r.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>小型网站管理员，快放弃 CDN！</title>
-      <link>http://biji.chuqiyx.com/posts/2018-01-19-forget_the_cdn.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2018-01-19-forget_the_cdn.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">小型网站管理员，快放弃 CDN！</source>
-      <description> CDN 的全称是 Content Delivery Network，即内容分发网络。其基本思路是尽可能避开互联网上有可能影响数据传输速度和稳定性的瓶颈和环节，使内容传输的更快、更稳定。通过在网络各处放置节点服务器所构成的在现有的互联网基础之上的一层智能虚拟网络，CDN 系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合...</description>
-      <category>服务器</category>
-      <pubDate>Fri, 19 Jan 2018 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p>CDN 的全称是 Content Delivery Network，即内容分发网络。其基本思路是尽可能避开互联网上有可能影响数据传输速度和稳定性的瓶颈和环节，使内容传输的更快、更稳定。通过在网络各处放置节点服务器所构成的在现有的互联网基础之上的一层智能虚拟网络，CDN 系统能够实时地根据网络流量和各节点的连接、负载状况以及到用户的距离和响应时间等综合信息将用户的请求重新导向离用户最近的服务节点上。其目的是使用户可就近取得所需内容，解决 Internet 网络拥挤的状况，提高用户访问网站的响应速度。</p>
+<p>这篇文章是上海封城前所写，放在草稿箱中已经一年多了，现在终于可以重新用到了。</p>
 </blockquote>
-<p>国内 CDN 有阿里云、腾讯、百度、网宿、七牛云、又拍云等。</p>
-<p>这里以阿里云 CDN 为例。我之前使用阿里云全站 CDN，一直以为速度会加快。但命中率只有 7%，在更换为 ECS 后，命中率更降为 2%。</p>
-<p>更可怕的是，我提交工单后才得到的事实。<strong>CDN 运营商会根据 DNS 分配就近分配 CDN 节点，抓取网站缓存。</strong></p>
-<p>第一反应：「不错啊。如果网站在北京，访客在上海，直接访问上海的节点，速度必然要快一些。」</p>
-<p>但事实并没有这么完美。<strong>CDN 是根据本地 DNS 来分配节点。</strong></p>
-<p>你从上海放出访问申请，DNS 有可能帮你分配去广东的节点。极端情况下，有可能分配到不同运营商，<strong>导致无法打开网站。</strong></p>
-<p>我进行了三个测试，本地网络环境都是上海电信，更换了 DNS 设置。</p>
-<p>第一次测试使用 114DNS，分配了广州鹏博士网络，网站打不开。提交工单后，客服反映<strong>这个节点是局域网节点，只有鹏博士网络才能打开。</strong></p>
-<p>第二次测试使用电信默认 DNS，分配苏州电信，网站正常。</p>
-<p>第三次测试使用阿里云 DNS，分配杭州电信，网站正常</p>
-<p>后面两次虽然都能打开网站，但没有一个分配在上海电信，这种加速又能快多少呢？</p>
-<p>在网站<strong>配置足够、流量不大（日均访客 1000 以内）</strong> 时，不建议使用全站 CDN，这只会拖累访问体验。小网站只适合将图片部署在 CDN。</p>
+<p>家门口的网红餐店总是要排三个小时的队，而且要在店门口扫描二维码。为了避免在门口浪费时间，我经常选择在家中提前将我的手机定位设至餐厅附近，然后扫码排队。只有当快轮到我时，我才从家出发。想知道我是如何实现这个小技巧的吗？</p>
+<h2>虚拟定位</h2>
+<ol>
+<li>
+<p>首先，在电脑上安装安卓模拟器，文中以蓝叠模拟器为例，但其他模拟器的操作也相似。</p>
+<figure><img src="https://img.newzone.top/2022-05-06-11-17-47.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</li>
+<li>
+<p>在模拟器中打开要修改定位的应用，点击应用的定位图标。</p>
+<figure><img src="https://img.newzone.top/2022-05-06-11-18-08.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</li>
+<li>
+<p>选择「地图定位」，点击你想设定的地点。当提示「设置该坐标点为当前位置？」后，点击确定，返回至微信界面，即可看到虚拟定位已启用。</p>
+<figure><img src="https://img.newzone.top/2022-05-06-11-18-26.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</li>
+<li>
+<p>更改定位后，为了确认位置是否准确，建议你在应用内使用位置服务进行检查。例如，如果想要核实微信上的位置，你可以尝试给「文件传输助手」发送位置信息。</p>
+</li>
+</ol>
+<h2>常见问题</h2>
+<h3>无法虚拟定位</h3>
+<p>如果你已经按照上述步骤进行设置，但仍然不能虚拟定位，这可能是由于模拟器没有正确获取位置信息。为了验证这一点，你可以在模拟器中的微信应用里，给好友发送实时位置分享，看是否能正确显示。</p>
+<h3>手机修改定位</h3>
+<p>我曾尝试在手机上使用如 fakegps 这样的工具来修改位置，但只有高德地图更改成功，其他都失败了。据了解，这可能与 Android 10 或更高版本的系统有关。如果你使用的是 Android 9 或更早版本的手机，你或许可以尝试使用旧版本的微信来更改定位。</p>
+<h3>关于虚拟签到</h3>
+<p>虽然企业微信、钉钉等打卡软件也可用此法签到，但请勿滥用。有记者曾在三家价格分别为 5 元、10 元、20 元的网店购买更改定位服务，结果发现这些商家仅是远程登录客户的微信账号，然后使用特定工具修改定位，操作流程与上文所述类似。</p>
 ]]></content:encoded>
+      <enclosure url="https://img.newzone.top/2022-05-06-11-17-47.png" type="image/png"/>
     </item>
     <item>
-      <title>雇个机器人帮你干活</title>
-      <link>http://biji.chuqiyx.com/posts/2018-01-31-hire_a_robot.html</link>
-      <guid>http://biji.chuqiyx.com/posts/2018-01-31-hire_a_robot.html</guid>
-      <source url="http://biji.chuqiyx.com/rss.xml">雇个机器人帮你干活</source>
-      <description> 机器人会取代你工作！ 计算云会取代你工作！ AI 会取代你的工作！ 我相信科技终究有一天会消灭所有工作，但我们这代人的无奈就是很难等到这一天。 作为懒人、宅男，等不及了怎么办？ 既然还没被取代，那就雇个机器人帮你干活！ 我每天第一件事是去各个网站看热门新闻、行业资料。以前是用 RSS，但 RSS 被视为落后，越来越多的网站不再提供 RSS 源。离开 ...</description>
-      <category>自动化</category>
-      <pubDate>Wed, 31 Jan 2018 22:51:00 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>机器人会取代你工作！
-计算云会取代你工作！
-AI 会取代你的工作！</p>
-</blockquote>
-<p>我相信科技终究有一天会消灭所有工作，但我们这代人的无奈就是很难等到这一天。</p>
-<p>作为懒人、宅男，等不及了怎么办？</p>
-<p>既然还没被取代，那就<strong>雇个机器人帮你干活</strong>！</p>
-<p>我每天第一件事是去各个网站看热门新闻、行业资料。以前是用 RSS，但 RSS 被视为落后，越来越多的网站不再提供 RSS 源。离开 RSS，我就一直没找到更合适的方法去将内容聚合起来，不得不在一个个网站间疲于奔命，逐渐不再看内容。</p>
-<blockquote>
-<p>RSS(Really Simple Syndication) 是一种描述和同步网站内容的格式，是使用最广泛的 XML 应用。简易信息聚合（也叫聚合内容）是一种 RSS 基于 XML 标准，在互联网上被广泛采用的内容包装和投递协议。</p>
-</blockquote>
-<ul class="task-list-container">
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-0" disabled="disabled"><label class="task-list-item-label" for="task-item-0"> 增加 <code>Alfred</code> 搜索</label></li>
-</ul>
-<p><strong>直到遇到了我的第一个机器人雇员 <a href="https://github.com/huginn/huginn" target="_blank" rel="noopener noreferrer">Huginn</a></strong></p>
-<blockquote>
-<p>Huginn 是一个可以创建为你在线执行自动化任务的系统。Huginn 可以读取网页，监测事件并且执行符合你需求的动作。Huginn 通过 agents 创建并执行任务（事件流）。你可以将它看作是一个运行在你自己服务器上的 IFTTT 或 Zapier。</p>
-</blockquote>
-<p>Huginn 帮我将所有信息聚合成 RSS，24 小时帮我获取我要的内容。</p>
+      <title>别再被同质化的内容淹没！用 AI 克隆技术打造你独特的声音品牌！</title>
+      <link>http://biji.chuqiyx.com/posts/2023-10-07-clone-voice.html</link>
+      <guid>http://biji.chuqiyx.com/posts/2023-10-07-clone-voice.html</guid>
+      <source url="http://biji.chuqiyx.com/rss.xml">别再被同质化的内容淹没！用 AI 克隆技术打造你独特的声音品牌！</source>
+      <description>每个人的声音都是独一无二的，克隆自己的声音可以用于制作高度个性化的内容，如播客、视频、音乐等。 你的声音是个人品牌的重要组成部分。利用人工智能，你可以不需要亲自录音就能生成大量优质音频内容，节省时间的同时确保内容质量和一致性。市场上虽有众多第三方语音生成技术，但它们大多数使用通用或他人的声音，导致内容缺乏个性化特质。例如，「注意看，这个男人叫小帅」的声...</description>
+      <category>工具</category>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>每个人的声音都是独一无二的，克隆自己的声音可以用于制作高度个性化的内容，如播客、视频、音乐等。</p>
+<p>你的声音是个人品牌的重要组成部分。利用人工智能，你可以不需要亲自录音就能生成大量优质音频内容，节省时间的同时确保内容质量和一致性。市场上虽有众多第三方语音生成技术，但它们大多数使用通用或他人的声音，导致内容缺乏个性化特质。例如，「注意看，这个男人叫小帅」的声音已经在众多影视作品中被重复使用。与之不同，AI 克隆技术能提供前所未有的个性化和定制体验。</p>
+<p>艾什莉的播客就是一个典型例子，她利用 AI 生成了根据当日新闻热点定制的讲稿，再用 AI 克隆的自己的声音进行朗读，配上背景音乐，既经济又高效。</p>
+]]></content:encoded>
+      <enclosure url="https://img.newzone.top/2023-10-08-21-53-46.png?imageMogr2/format/webp/thumbnail/400x" type="image/"/>
+    </item>
+    <item>
+      <title>Switch 测试222333444555升级记录与资源汇编</title>
+      <link>http://biji.chuqiyx.com/posts/2023-10-29-switch-firmware-updates.html</link>
+      <guid>http://biji.chuqiyx.com/posts/2023-10-29-switch-firmware-updates.html</guid>
+      <source url="http://biji.chuqiyx.com/rss.xml">Switch 测试222333444555升级记录与资源汇编</source>
+      <description>家里有一台多年前购买的港版软破大气层 Nintendo Switch，已经闲置了相当长时间。最近，我想用 Switch 来恢复运动，就重新翻出了它，但面临一些问题。 注入器、大气层以及系统版本都相当陈旧，而之前的卖家也无法联系上。因此，我不得不自行研究如何进行升级，同时寻找游戏下载渠道。闲置 Switch 系统版本停留在 10，而我的目标是将它升级到最...</description>
+      <category>工具</category>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>家里有一台多年前购买的港版软破大气层 Nintendo Switch，已经闲置了相当长时间。最近，我想用 Switch 来恢复运动，就重新翻出了它，但面临一些问题。</p>
+<p>注入器、大气层以及系统版本都相当陈旧，而之前的卖家也无法联系上。因此，我不得不自行研究如何进行升级，同时寻找游戏下载渠道。闲置 Switch 系统版本停留在 10，而我的目标是将它升级到最新的版本，也就是 17。</p>
+<p>以下是我进行升级的步骤：</p>
+<h2>更新注入器</h2>
+<p>首先，我需要更新注入器，我使用的是 ns-ATMOSPHERE 注入器，它看起来像一个白色的 USB 设备。由于注入器的版本低于 Hekate 4.2，所以我需要更新 payload。</p>
+<ol>
+<li>
+<p>在 Windows 系统上安装 NS-Atmosphere Programmer。由于该应用的开发商已经跑路，我在 GBATEMP 论坛上找到两个版本，可以自行选择：<a href="https://www.mediafire.com/file/av2yur8zse5h016/Setup+NS-Atmosphere+programmer+v0.3.exe/file" target="_blank" rel="noopener noreferrer">0.3 STEUP</a>，<a href="https://gbatemp.net/attachments/ns-atmosphere-v0-4-rar.274028/" target="_blank" rel="noopener noreferrer">0.4 Protable</a>。<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p><a class="footnote-anchor" id="footnote-ref1">
+</a></li><a class="footnote-anchor" id="footnote-ref1">
+<li>
+<p>打开 ns-ATMOSPHERE 的 ON 按钮，双击 RST 按钮，然后使用 USB 连接到 PC 端。此时 ns-ATMOSPHERE 将亮起粉灯。如果未出现粉灯，表示未被识别，可以尝试更换 USB 端口或重新尝试之前的操作。</p>
+</li>
+</a><li><a class="footnote-anchor" id="footnote-ref1">
+</a><p><a class="footnote-anchor" id="footnote-ref1">打开下载好的 NS-Atmosphere Programmer，点击 Refresh 来识别端口，然后点击 Browse 选择需要注入的 payload bin。在这里使用的是 </a><a href="https://github.com/CTCaer/hekate/releases" target="_blank" rel="noopener noreferrer">hekate</a>，从其发布页面下载最新版本的 <code>hekate_ctcaer_6.0.7_Nyx_1.5.6.zip</code>，然后解压得到 <code>hekate_ctcaer_6.0.7.bin</code>，这就是要注入的 bin。</p>
+</li>
+</ol>
+<p>如果有不清楚的地方，你可以观看 <a href="https://www.twitch.tv/videos/346892592" target="_blank" rel="noopener noreferrer">NS Atmosphere Dongle Tutorial!</a> 这个视频教程，或者查看这篇更详细的<a href="https://www.cnblogs.com/letleon/p/NS_Atmosphere_payload_Programmer_aliyundrive_backup.html" target="_blank" rel="noopener noreferrer">注入器更新教程</a>。</p>
+<h2>大气层&amp;主机升级</h2>
+<h3>固件准备</h3>
+<p>接下来，我需要准备大气层和主机的升级。我使用了 <a href="https://github.com/Yuanbanba/Atmosphere/releases" target="_blank" rel="noopener noreferrer">Yuanbanba/Atmosphere</a> 这个整合包，其中包含了大气层的迷你版本、Tesla 插件包以及相册 NRO 软件包，非常适合懒人使用。</p>
+<p>至于 Switch 最新的离线升级固件，我在 <a href="https://darthsternie.net/switch-firmwares/" target="_blank" rel="noopener noreferrer">Switch Firmwares</a> 上找到了。需要注意的是，这些固件分为全球版和国行版，建议选择全球版。</p>
+<h3>升级流程</h3>
+<ol>
+<li>关机后，取出后盖板上的 SD 卡，并将其连接到计算机。</li>
+<li>在 SD 卡的根目录保留可能存在的 emuMMC 和 nintendo 文件夹，其他文件全部删除。（如果你有补丁或金手指，请务必自行备份。）</li>
+<li>复制大气层文件和解压后的离线升级固件到 SD 卡的根目录。</li>
+<li>按下方步骤进入大气层系统。如果你有 emuMMC 文件夹，则选择启动 <code>虚拟（破解）系统</code>；如果没有，则参考 <a href="https://switch.homebrew.guide/emummc/emummc.html" target="_blank" rel="noopener noreferrer">Create an emuMMC</a> 教程创建 emuMMC 虚拟系统。请注意，创建 emuMMC 虚拟系统将占据 SD 卡 29G 的空间，并清空和重新分区 SD 卡，创建后需重新复制大气层文件和固件。</li>
+<li>最后，进入系统后，打开「相册」，启动 daybreak 插件，然后选择安装离线固件包。随后全部选择右侧的选项并按下 A，安装完成后重启系统即完成升级。</li>
+</ol>
+<h2>进入大气层系统</h2>
+<ol>
+<li>在关机状态下，拆下右侧手柄（红色手柄）。如果已经开机，长按电源键约 8 秒，选择关闭电源。</li>
+<li>将短接器插入右侧手柄的空槽中，确保插到底。</li>
+<li>打开注入器的开关，等到灯亮起后插入 ns 的充电口。</li>
+<li>按住音量键 <code>+</code>，然后按下电源键，稍等片刻，大气层界面将会出现，此时可以拔下盒子和短接器，然后接上右手柄。</li>
+<li>大气层系统中点击「启动」，选择第二个选项 - 虚拟（破解）系统。</li>
+</ol>
+<h2>安装游戏</h2>
+<h3>DBI</h3>
+<p>关于大气层安装游戏和 DLC 的方法，请参考 <a href="https://nswtl.info/switch-eng/games.html" target="_blank" rel="noopener noreferrer">Installation of games, DLC, updates</a>：</p>
+<ol>
+<li>使用 USB 将 Switch 连接到 PC。</li>
+<li>进入「相册」，启动 DBI，按 <code>X</code> 来运行 <code>Run MTP Responder</code>。此时，PC 端将出现 Switch 设备。</li>
+<li>打开 PC 上出现的 Switch 设备，根据你想安装游戏的位置，将游戏复制到 <code>5: SD Card install</code> 或 <code>6: NAND install</code>。</li>
+<li>安装结束后，按 <code>B</code> 停止 MTP 服务器并卸载 MTP 设备，然后再按 <code>B</code> 关闭 DBI。</li>
+</ol>
+<p>如果你安装的是需要网络登录的游戏，例如《Just Dance 2023》，请确保按照游戏包中提供的离线激活提示进行操作。在安装前，需将离线激活和 Mod 文件移出安装包，以避免出现 <code>not acceptable</code> 的错误提示。</p>
+<p>DBI 是大气层增强包的内置插件。如果不使用增强包，你也可以手动安装 DBI，具体流程请参考 <a href="https://github.com/rashevskyv/dbi/blob/main/README_ENG.md" target="_blank" rel="noopener noreferrer">DBI 安装及使用说明</a>。</p>
+<h3>NS-USBloader</h3>
+<p>如果你不喜欢 DBI 的界面，也可以使用 Awoo Installer 通过 <a href="https://github.com/developersu/ns-usbloader" target="_blank" rel="noopener noreferrer">NS-USBloader</a> 来安装 Switch 游戏。</p>
+<p>然而，在安装游戏前，你需要在 NS-USBloader 的左侧，点击设置按钮，然后选择右侧的「下载并安装驱动程序」。如果不执行此步，Switch 可能会提示 USB 设备不兼容。</p>
+<h2>游戏资源</h2>
+<p>游戏资源可在 <a href="https://nswtl.info/" target="_blank" rel="noopener noreferrer">SWITCH TORRENT LIBRARY</a> 上获取。这是最大且免费的游戏库，适用于 Nintendo Switch 和其他平台。在测试中，我找到了所有需要的游戏。</p>
+<p>点击页面上的标题区域，将跳转至 Telegram Bot。向机器人发送游戏的英文名称，机器人将回复游戏的种子文件和版本说明。游戏的英文名称可以在 <a href="https://www.3dmgame.com/games/ns_all_1/" target="_blank" rel="noopener noreferrer">3DMGAME Switch 专区</a>中查找。</p>
+<p>如果需要金手指，可以在 DBI 游戏安装的第三步将金手指文件复制到 <code>1: SD Card\atmosphere\contents</code> 文件夹中。然后，进入相册，打开 Edizon，按下 <code>L</code> 键进入系统模块管理，开启 Tesla 插件。在需要开启金手指的游戏中，按住 <code>L</code> 键再按向下方向键，即可激活金手指菜单。金手指资源见 <a href="https://www.gamer520.com/jinshouzhi" target="_blank" rel="noopener noreferrer">Switch520</a>。</p>
+<p>部分游戏列表：</p>
 <ul>
-<li><a href="http://news.163.com/rank" target="_blank" rel="noopener noreferrer">网易热门新闻</a>：抓取网易顶贴最多的 100 条新闻</li>
-<li><a href="http://top.baidu.com/buzz?b=1" target="_blank" rel="noopener noreferrer">百度实时热点</a>：实时更新每天的百度热点</li>
-<li><a href="https://www.guokr.com/" target="_blank" rel="noopener noreferrer">果壳网</a>：果壳首页推荐，官方更新速度较慢，刚好可以了解些奇思妙想</li>
-<li>工作类：梅花、SocialBeta、数英网、艾瑞网</li>
+<li>健身游戏：舞力全开（Just Dance），有氧拳击 2（Fitness Boxing 2），健身拳击：北斗神拳（Fitness Boxing - Fist of the North Star），健身环大冒险（Ring Fit Adventure），健身巡游（Fitness Circuit），吾家健身趣，Nintendo Switch Sports。</li>
+<li>Mario 系列：超级马里奥兄弟：惊奇（Super Mario Bros. Wonder），马里奥派对：超级巨星（Mario Party Superstars），马里奥和疯狂兔子：星耀之愿（Mario plus Rabbids - Sparks of Hope）。</li>
+<li>休闲游戏：世界游戏大全 51（Clubhouse Games 51 Worldwide Classics），太鼓达人（Taiko no Tatsujin），胡闹厨房（Overcooked），大富翁 11。</li>
+<li>动作冒险：双人成行（It Takes Two），荒野大镖客：救赎（Red Dead: Redemption），塞尔达传说：旷野之息（The Legend of Zelda - Breath of the Wild），女神异闻录 5（Persona 5 Royal），十三机兵防卫圈（13 Sentinels Aegis Rim），AI 梦境档案（AI The Somnium Files）。</li>
+<li>格斗游戏：真人快打 1（Mortal Kombat 1），IGS 经典街机合集（IGS Classic Arcade Collection）。</li>
+<li>竞技游戏：FIFA 23，NBA 2K24，曼岛 TT 赛：边缘竞速 3（TT Isle Of Man: Ride on the Edge 3）。</li>
+<li>真人影视互动：春逝百年抄（The Centennial Case: a Shijima Story），十个约会（Ten Dates）。</li>
 </ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p><a href="https://gbatemp.net/threads/ns-atmosphere-software-mirror.571116/" target="_blank" rel="noopener noreferrer">NS Atmosphere Software Mirror</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 ]]></content:encoded>
     </item>
   </channel>
