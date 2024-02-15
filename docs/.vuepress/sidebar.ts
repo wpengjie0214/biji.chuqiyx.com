@@ -10,15 +10,6 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "Ai绘画-常见问题",
-      icon: "",
-      prefix: "/aiwenti/",
-      link: "",
-      collapsible: true,
-      children: "structure",
-    
-    },
-    {
       text: "Ai手册-工具资料",
       icon: "",
       prefix: "/apps/",
@@ -218,7 +209,16 @@ export default sidebar({
           children: "structure",
         },
       ],
-
+    },
+    //Ai绘画-常见问题
+    {
+      text: "Ai绘画-常见问题",
+      icon: "",
+      prefix: "/aiwenti/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    
     },
     //Ai教程-实用教程
     {
