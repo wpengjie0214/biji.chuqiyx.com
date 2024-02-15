@@ -10,7 +10,7 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "Ai工具-应用手册",
+      text: "🌈Ai工具-应用手册",
       icon: "",
       prefix: "/apps/",
       link: "",
@@ -123,7 +123,7 @@ export default sidebar({
     //Ai项目-变现案例
     {
       text: "Ai项目-变现案例",
-      icon: "",
+      icon: "download",
       prefix: "/family/",
       link: "",
       collapsible: true,
@@ -133,13 +133,13 @@ export default sidebar({
     },
     //Ai教程-实用教程
     {
-      text: "Ai教程-实用教程",
+      text: "<i class="fa-solid fa-house"></i> Ai教程-实用教程",
       icon: "blog",
       prefix: "/_posts/",
       link: "/blog",
       collapsible: true,
       children: "structure",
-      
+
     },
   ],
   // 独立功能区
