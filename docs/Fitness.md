@@ -1,6 +1,6 @@
 ---
 article: false
-title: Ai时代-新人必看
+title: <span style="color:red">Ai时代-新人必看</span>
 icon: strong
 ---
 
