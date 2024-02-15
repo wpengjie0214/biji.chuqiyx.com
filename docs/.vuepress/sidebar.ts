@@ -133,7 +133,7 @@ export default sidebar({
     },
     //Ai教程-实用教程
     {
-      text: "<i class="fa-solid fa-house"></i> Ai教程-实用教程",
+      text: "Ai教程-实用教程",
       icon: "blog",
       prefix: "/_posts/",
       link: "/blog",
