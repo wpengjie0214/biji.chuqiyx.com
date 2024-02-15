@@ -67,7 +67,7 @@ export default hopeTheme({
   // sidebarSorter: ['readme', 'order', 'title'],
 
   // copyright 默认为 Copyright © <作者>
-  copyright: `Copyright © 2024-小柒带你学Ai <a href="http://biji.chuqiyx.com" target="_blank" rel="noopener noreferrer">小柒笔记</a><a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">晋ICP备2020014275号-1</a>`,
+  copyright: `Copyright © 2024-小柒带你学Ai <a href="http://biji.chuqiyx.com" target="_blank" rel="noopener noreferrer">小柒笔记</a>｜<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">晋ICP备2020014275号-1</a>`,
   displayFooter: true,
   // 页脚，支持使用 HTMLString 以显示备案信息等
   // footer: `MIT Licensed`,
@@ -100,48 +100,10 @@ export default hopeTheme({
   plugins: {
     blog: true,
 
-    // 评论配置（仅做样例，记得更换）
-    comment: {
-      provider: "Waline",
-      serverURL: "https://waline.newzone.top",
-      reaction: [
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f60e.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f602.png",
-        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
-      ],
-      // 部署 Waline：https://waline.js.org/guide/get-started.html
-      // pageview: true, // 浏览量统计
-      locales: {
-        "/": {
-          // 表情互动提示文字
-          reactionTitle: "已到达文章底部，欢迎留言、表情互动~",
-          reaction0: "赞一个",
-          reaction1: "支持下",
-          reaction2: "有点酷",
-          reaction3: "啥玩意",
-          reaction4: "看不懂",
-          // Waline 等级标签
-          admin: "盛年不重来，一日难再晨",
-          level0: "锻体",
-          level1: "炼气",
-          level2: "筑基",
-          level3: "金丹",
-          level4: "元婴",
-          level5: "化神",
-        },
-      },
 
-      // Giscus 备用配置
-      /*
-      provider: "Giscus",
-      repo: "rockbenben/LearnData",
-      repoId: "R_kgDOHdfk6Q",
-      category: "Comments",
-      categoryId: "DIC_kwDOHdfk6c4CQYNn",
-      */
-    },
+    // 评论配置（仅做样例，记得更换）
+
+   
 
     // 组件库
     components: {
