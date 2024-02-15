@@ -46,7 +46,7 @@ export default sidebar({
     {
       text: "Ai写作-ChatGPT",
       icon: "",
-      prefix: "/apps/",
+      prefix: "/gpt/",
       link: "",
       collapsible: true,
       children: [
