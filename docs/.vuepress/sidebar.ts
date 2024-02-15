@@ -23,7 +23,7 @@ export default sidebar({
         //AIGC精品导航
         "navigation.md",
         {
-          text: "免费AIGC资料整合",
+          text: "免费AIGC资料",
           icon: "plugin",
           prefix: "mianfeiaigc/",
           link: "",
@@ -31,7 +31,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "付费AIGC资料整合",
+          text: "付费AIGC资料",
           icon: "load",
           prefix: "fufeiaigc/",
           link: "",

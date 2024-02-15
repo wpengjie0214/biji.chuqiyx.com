@@ -1,6 +1,6 @@
 ---
 article: false
-title: 安装绘画软件
+title: 绘画软件合集
 icon: list
 order: 2
 ---
