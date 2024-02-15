@@ -22,7 +22,7 @@ export default hopeTheme({
   encrypt: {
       config: {
         // 这会加密整个 guide 目录，并且两个密码都是可用的
-        "/apps/": ["1234", "5678"],
+        "/apps/": ["wpj1234", "wpj5678"],
         // 这只会加密 config/page.html
         "/posts/2024-02-15-Learning-materials.html": "1234",
       },

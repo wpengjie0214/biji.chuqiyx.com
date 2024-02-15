@@ -10,7 +10,7 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "Ai工具-应用手册",
+      text: "Ai手册-工具软件",
       icon: "",
       prefix: "/apps/",
       link: "",
@@ -122,7 +122,7 @@ export default sidebar({
     },
     //Ai项目-变现案例
     {
-      text: "Ai项目-变现案例",
+      text: "Ai项目-落地案例",
       icon: "",
       prefix: "/family/",
       link: "",
