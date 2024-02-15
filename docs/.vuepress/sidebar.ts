@@ -59,6 +59,25 @@ export default sidebar({
       collapsible: true,
       children: "structure",
      },
+     //ChatGPT高质量提示词
+     {
+      text: "ChatGPT高质量提示词",
+      icon: "",
+      prefix: "callword/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+     },
+      //ChatGPT实用场景案例
+     {
+      text: "ChatGPT实用场景案例",
+      icon: "",
+      prefix: "gptcase/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+     },
+
 
       ],
 
