@@ -8,7 +8,7 @@ icon: note
 
 [![](https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/PZTQfJ4GjX)
 
-## ✨ 初衷
+## ✨ --测试赛
 
 曾经，我采用了 Notion、Obsidian 和 飞书 等多款知识管理工具来存储我的心得与笔记。然而，这种方式导致我的资料分散，难以管理和分享。
 

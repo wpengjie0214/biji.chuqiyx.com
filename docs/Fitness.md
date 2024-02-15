@@ -1,6 +1,6 @@
 ---
 article: false
-title: 健身计划
+title: Ai时代-新人必看
 icon: strong
 ---
 

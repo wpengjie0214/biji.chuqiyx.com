@@ -1,6 +1,6 @@
 ---
 article: false
-title: 每日仪式
+title: Ai时代-社交帐号
 icon: check
 ---
 
