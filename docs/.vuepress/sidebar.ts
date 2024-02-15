@@ -123,7 +123,7 @@ export default sidebar({
     //Ai项目-变现案例
     {
       text: "Ai项目-变现案例",
-      icon: "download",
+      icon: "",
       prefix: "/family/",
       link: "",
       collapsible: true,
