@@ -1,3 +1,5 @@
+import { defineUserConfig } from "vuepress";
+import { hopeTheme } from "vuepress-theme-hope";
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
@@ -14,6 +16,17 @@ export default hopeTheme({
   },
 
   logo: "/logo.svg",
+
+
+  //密码登录访问
+  encrypt: {
+      config: {
+        // 这会加密整个 guide 目录，并且两个密码都是可用的
+        "/apps/": ["1234", "5678"],
+        // 这只会加密 config/page.html
+        "/posts/2024-02-15-Learning-materials.html": "1234",
+      },
+    },
 
   // 是否全局启用路径导航
   breadcrumb: false,
