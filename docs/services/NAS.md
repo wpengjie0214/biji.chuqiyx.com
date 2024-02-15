@@ -1,6 +1,6 @@
 ---
 article: false
-title: NAS
+title: ChatGPT从入门到精通
 icon: process
 order: 1
 ---

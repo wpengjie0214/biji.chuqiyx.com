@@ -42,6 +42,30 @@ export default sidebar({
 
     },
     //Ai写作-ChatGPT
+
+    {
+      text: "Ai写作-ChatGPT",
+      icon: "",
+      prefix: "/apps/",
+      link: "",
+      collapsible: true,
+      children: [
+    //ChatGPT从入门到精通
+     {
+      text: "ChatGPT从入门到精通",
+      icon: "",
+      prefix: "beginner/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+     },
+
+      ],
+
+    },
+
+
+ /*
     {
       text: "Ai写作-ChatGPT",
       icon: "",
@@ -51,6 +75,7 @@ export default sidebar({
       children: "structure",
     
     },
+  */
     //Ai绘画-Stable difussion
     {
       text: "Ai绘画-Stable difussion",
