@@ -10,7 +10,7 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "<iconify-icon icon="fluent:window-dev-tools-24-regular"  style="color: #13b91e"></iconify-icon> Ai工具-应用手册",
+      text: "Ai工具-应用手册",
       icon: "",
       prefix: "/apps/",
       link: "",
@@ -46,7 +46,7 @@ export default sidebar({
     },
     //Ai写作-ChatGPT
     {
-      text: "<iconify-icon icon="noto:writing-hand"></iconify-icon> Ai写作-ChatGPT",
+      text: "Ai写作-ChatGPT",
       icon: "",
       prefix: "/services/",
       link: "",
@@ -56,7 +56,7 @@ export default sidebar({
     },
     //Ai绘画-Stable difussion
     {
-      text: "<iconify-icon icon="streamline:ai-technology-spark-solid"  style="color: #13b91e"></iconify-icon> Ai绘画-Stable difussion",
+      text: "Ai绘画-Stable difussion",
       icon: "",
       prefix: "/windows/",
       link: "",
@@ -66,7 +66,7 @@ export default sidebar({
     },
     //Ai绘画-Midjourney
     {
-      text: "<iconify-icon icon="streamline:ai-technology-spark-solid"  style="color: #13b91e"> Ai绘画-Midjourney",
+      text: "Ai绘画-Midjourney",
       icon: "",
       prefix: "",
       link: "",
@@ -122,7 +122,7 @@ export default sidebar({
     },
     //Ai项目-变现案例
     {
-      text: "<iconify-icon icon="noto-v1:money-bag"></iconify-icon> Ai项目-变现案例",
+      text: "Ai项目-变现案例",
       icon: "",
       prefix: "/family/",
       link: "",
@@ -133,7 +133,7 @@ export default sidebar({
     },
     //Ai教程-实用教程
     {
-      text: "<iconify-icon icon="majesticons:home-line"  style="color: #13b91e"></iconify-icon> Ai教程-实用教程",
+      text: "Ai教程-实用教程",
       icon: "blog",
       prefix: "/_posts/",
       link: "/blog",
