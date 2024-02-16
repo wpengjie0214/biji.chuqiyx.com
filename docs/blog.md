@@ -3,10 +3,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: 小柒带你学AI
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
+heroText: 小柒带你学AI
+tagline: 新的科技来临，让我门来一起学Ai
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:

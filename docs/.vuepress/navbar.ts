@@ -20,7 +20,7 @@ export default navbar([
         link: "apps/navigation.html",
       },
       {
-        text: "AIGC/资料全网资料整合",
+        text: "AIGC/全网资料整合",
         icon: "any",
         prefix: "",
         children: [
