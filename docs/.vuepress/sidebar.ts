@@ -14,7 +14,7 @@ export default sidebar({
       icon: "",
       prefix: "/apps/",
       link: "",
-      collapsible: true,
+      collapsible: false,
       children: [
         //电脑必备工具
         "computertool.md",
