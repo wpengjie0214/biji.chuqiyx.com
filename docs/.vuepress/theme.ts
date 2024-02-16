@@ -3,6 +3,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
+import { copyrightPlugin } from '@vuepress/plugin-copyright'
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
@@ -84,7 +85,7 @@ export default hopeTheme({
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      抖音: "",
+     
       Zhihu: "https://www.zhihu.com/people/qingwhat",
       少数派: ["https://sspai.com/u/zqj05i4v/posts", "./docs/.vuepress/icons/sspai.svg"],
       Wechat: "https://img.newzone.top/wechat.svg",
@@ -95,7 +96,19 @@ export default hopeTheme({
   },
 
   // 隐藏打印按钮
-  print: true,
+  //print: true,
+
+    //禁止版权设置
+    export default {
+      plugins: [
+        copyrightPlugin({
+          // options
+
+          
+        }),
+      ],
+    }
+
 
   plugins: {
     blog: true,
