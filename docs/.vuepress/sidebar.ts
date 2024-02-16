@@ -27,7 +27,7 @@ export default sidebar({
         {
           text: " 免费AIGC资料",
           icon: "plugin",
-          prefix: "免费AIGC资料/",
+          prefix: "mianfeiaigc/",
           link: "",
           collapsible: true,
           children: "structure",

@@ -20,17 +20,17 @@ export default navbar([
         link: "apps/navigation.html",
       },
       {
-        text: "AIGC/资料",
+        text: "AIGC/资料全网资料整合",
         icon: "any",
         prefix: "",
         children: [
           {
-            text: "免费AIGC资料全网整合",
+            text: "免费AIGC资料",
             icon: "quote",
             link: "apps/mianfeiaigc/",
           },
           {
-            text: "付费AIGC资料全网整合",
+            text: "付费AIGC资料",
             icon: "process",
             link: "apps/fufeiaigc/",
           },
