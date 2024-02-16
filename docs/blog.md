@@ -6,7 +6,7 @@ icon: home
 title: 小柒带你学AI
 #heroImage: /logo.svg
 heroText: 小柒带你学AI
-tagline: 新的科技来临，让我门来一起学Ai
+tagline: 新的科技来临，让我们来一起学Ai
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:

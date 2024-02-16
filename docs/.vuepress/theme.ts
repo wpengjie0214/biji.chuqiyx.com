@@ -84,7 +84,7 @@ export default hopeTheme({
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      抖音: "https://www.douyin.com/user/MS4wLjABAAAAobr1zhAMZXMnqMU2l1Iu4z1gXIqqW6jkj9ANpmmp-XriL2OLxDaiByz3E_R5wext?vid=7320202447027293451",
+      抖音: "",
       Zhihu: "https://www.zhihu.com/people/qingwhat",
       少数派: ["https://sspai.com/u/zqj05i4v/posts", "./docs/.vuepress/icons/sspai.svg"],
       Wechat: "https://img.newzone.top/wechat.svg",
