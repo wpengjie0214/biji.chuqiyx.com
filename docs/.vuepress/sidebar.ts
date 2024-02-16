@@ -20,7 +20,9 @@ export default sidebar({
         "computertool.md",
         //电脑必备插件
         "Plugin.md",
-        //安装绘画软件
+        //AI提效率工具
+        "aitixiaolv.md",
+        //绘画软件合集
         "install.md",
         //AIGC精品导航
         "navigation.md",
