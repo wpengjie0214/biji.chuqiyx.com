@@ -9,26 +9,30 @@ export default navbar([
     icon: "app",
     prefix: "/",
     children: [
-      "apps/Applist",
       {
-        text: "常用扩展",
+        text: "电脑必备工具",
         icon: "chrome",
-        link: "apps/Chrome",
+        link: "apps/computertool.html",
       },
       {
-        text: "服务/专题",
+        text: "AIGC精品导航",
+        icon: "chrome",
+        link: "apps/navigation.html",
+      },
+      {
+        text: "AIGC/资料",
         icon: "any",
         prefix: "",
         children: [
           {
-            text: "直播手册",
+            text: "免费AIGC资料全网整合",
             icon: "quote",
-            link: "apps/livestreaming/1_obs_basic",
+            link: "apps/mianfeiaigc/",
           },
           {
-            text: "NAS 应用",
+            text: "付费AIGC资料全网整合",
             icon: "process",
-            link: "services/dockers-on-nas/",
+            link: "apps/fufeiaigc/",
           },
         ],
       },
