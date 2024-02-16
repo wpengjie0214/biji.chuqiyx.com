@@ -103,8 +103,8 @@ export default hopeTheme({
       plugins: [
         copyrightPlugin({
           // options
+          boolean: true,
 
-          
         }),
       ],
     }

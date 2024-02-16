@@ -101,7 +101,7 @@ export interface CopyrightPluginOptions {
    *
    * 禁用复制
    *
-   * @default true
+   * @default false
    */
   disableCopy?: boolean
 
