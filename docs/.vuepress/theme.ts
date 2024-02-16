@@ -98,15 +98,8 @@ export default hopeTheme({
   // 隐藏打印按钮
   //print: true,
 
-    //禁止版权设置
-    export default {
-      plugins: [
-        copyrightPlugin({
-          // options
-         plugins.component.true,
-        }),
-      ],
-    }
+    plugins.component.true,
+
 
 
   plugins: {
