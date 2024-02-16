@@ -1,7 +1,7 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import { copyrightPlugin } from '@vuepress/plugin-copyright'
+
 
 import theme from "./theme.js";
 
@@ -35,7 +35,7 @@ export default defineUserConfig({
     }),
   ],
 
-  
+
   bundler: webpackBundler({
     postcss: {},
     vue: {},
