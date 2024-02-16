@@ -95,7 +95,7 @@ export default hopeTheme({
   },
 
   // 隐藏打印按钮
-  // print: false,
+  print: true,
 
   plugins: {
     blog: true,
