@@ -45,20 +45,20 @@ export default navbar([
     children: ["Diet", "Shoppinglist", "Coupon", "baby/"],
   },
   {
-    text: "联系我们",
+    text: "关于我们",
     icon: "tool",
     children: [
       {
-        text: "ChatGPT SC",
+        text: "个人简介",
         icon: "creative",
-        link: "https://www.aishort.top/",
+        link: "/DailyRoutine.html#个人简介",
       },
-      { text: "IMGPrompt", icon: "pic", link: "https://prompt.newzone.top/" },
-      { text: "文字处理", icon: "others", link: "https://tools.newzone.top/json-translate" },
+      { text: "服务内容", icon: "pic", link: "/DailyRoutine.html#服务内容" },
+      { text: "课程介绍", icon: "others", link: "/DailyRoutine.html#课程介绍" },
       {
-        text: "工具收藏",
+        text: "官方网站",
         icon: "categoryselected",
-        link: "https://nav.newzone.top/",
+        link: "/DailyRoutine.html#官方网站",
       },
     ],
   },

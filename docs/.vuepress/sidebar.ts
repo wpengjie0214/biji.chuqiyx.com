@@ -229,7 +229,7 @@ export default sidebar({
       text: "✅Ai教程-实用教程",
       //icon: "blog",
       prefix: "/_posts/",
-      link: "",
+      link: "/blog",
       collapsible: true,
       children: "structure",
 
