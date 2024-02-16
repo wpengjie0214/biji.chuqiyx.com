@@ -34,13 +34,13 @@ export default defineUserConfig({
       id: "G-RWKZTY2P9R",
     }),
   ],
-  
+
   //设置限制字数复制
-  module.exports = {
+
   plugins: [
-      ['@vuepress/medium-zoom', { maxLength: 100 }]
-    ]
-  }
+    ['@vuepress/medium-zoom', { maxLength: 100 }]
+  ],
+
 
   bundler: webpackBundler({
     postcss: {},
