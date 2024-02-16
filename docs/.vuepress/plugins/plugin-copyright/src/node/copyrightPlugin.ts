@@ -28,7 +28,7 @@ export const copyrightPlugin =
       copyrightGetter,
       disableCopy = false,
       disableSelection = false,
-      global = false,
+      global = true,
       triggerLength = 100,
       maxLength = 0,
     } = options

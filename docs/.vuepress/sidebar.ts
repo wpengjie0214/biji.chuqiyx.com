@@ -1,4 +1,5 @@
 import { sidebar } from "vuepress-theme-hope";
+import { copyrightPlugin } from '@vuepress/plugin-copyright';
 
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default sidebar({
@@ -28,6 +29,7 @@ export default sidebar({
         "navigation.md",
         {
           text: " 免费AIGC资料",
+          copy: true,
           icon: "plugin",
           prefix: "mianfeiaigc/",
           link: "",
