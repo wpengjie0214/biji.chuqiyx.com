@@ -1,6 +1,7 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+import { copyrightPlugin } from '@vuepress/plugin-copyright'
 
 import theme from "./theme.js";
 
@@ -33,6 +34,14 @@ export default defineUserConfig({
       id: "G-RWKZTY2P9R",
     }),
   ],
+  
+  //设置限制字数复制
+  module.exports = {
+  plugins: [
+      ['@vuepress/medium-zoom', { maxLength: 100 }]
+    ]
+  }
+
   bundler: webpackBundler({
     postcss: {},
     vue: {},
