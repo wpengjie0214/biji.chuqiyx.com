@@ -10,11 +10,11 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "Ai手册-工具资料",
+      text: "✅Ai手册-工具资料",
       icon: "",
       prefix: "/apps/",
       link: "",
-      collapsible: false,
+      collapsible: true,
       children: [
         //电脑必备工具
         "computertool.md",
@@ -48,7 +48,7 @@ export default sidebar({
     //Ai写作-ChatGPT
 
     {
-      text: "Ai写作-ChatGPT",
+      text: "✅Ai写作-ChatGPT",
       icon: "",
       prefix: "/gpt/",
       link: "",
@@ -87,7 +87,7 @@ export default sidebar({
     //Ai绘画-Stable difussion
 
     {
-      text: "Ai绘画-Stable difussion",
+      text: "✅Ai绘画-Stable difussion",
       icon: "",
       prefix: "/aisd/",
       link: "",
@@ -150,7 +150,7 @@ export default sidebar({
     //Ai绘画-Midjourney
 
     {
-      text: "Ai绘画-Midjourney",
+      text: "✅Ai绘画-Midjourney",
       icon: "",
       prefix: "/aimj/",
       link: "",
@@ -196,7 +196,7 @@ export default sidebar({
 
     //Ai项目-落地案例
     {
-      text: "Ai项目-落地案例",
+      text: "✅Ai项目-落地案例",
       icon: "",
       prefix: "/aixm/",
       link: "",
@@ -216,7 +216,7 @@ export default sidebar({
     },
     //Ai绘画-常见问题
     {
-      text: "Ai绘画-常见问题",
+      text: "✅Ai绘画-常见问题",
       icon: "",
       prefix: "/aiwenti/",
       link: "",
@@ -226,8 +226,8 @@ export default sidebar({
     },
     //Ai教程-实用教程
     {
-      text: "Ai教程-实用教程",
-      icon: "blog",
+      text: "✅Ai教程-实用教程",
+      //icon: "blog",
       prefix: "/_posts/",
       link: "/blog",
       collapsible: true,
