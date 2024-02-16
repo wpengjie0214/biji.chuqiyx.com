@@ -29,6 +29,9 @@ export default sidebar({
         "navigation.md",
         {
           text: " 免费AIGC资料",
+          copy:
+               disableCopy: true,//禁止复制
+               disableSelection: true,//禁止选择
           icon: "plugin",
           prefix: "mianfeiaigc/",
           link: "",

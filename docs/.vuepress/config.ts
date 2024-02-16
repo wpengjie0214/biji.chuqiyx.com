@@ -35,13 +35,7 @@ export default defineUserConfig({
     }),
   ],
 
-  //设置限制字数复制
   
-  plugins: [
-    ['@vuepress/medium-zoom', { disableCopy: true }],
-  ],
-
-
   bundler: webpackBundler({
     postcss: {},
     vue: {},
