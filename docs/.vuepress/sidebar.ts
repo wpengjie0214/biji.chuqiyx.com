@@ -30,6 +30,7 @@ export default sidebar({
         {
           text: " 免费AIGC资料",
           copy: true,
+          copy.disableCopy,
           icon: "plugin",
           prefix: "mianfeiaigc/",
           link: "",
