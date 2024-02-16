@@ -29,7 +29,7 @@ export default hopeTheme({
     },
 
   // 是否全局启用路径导航
-  breadcrumb: true,
+  breadcrumb: false,
 
   // 页面元数据：贡献者，最后修改时间，编辑链接
   contributors: false,
@@ -95,7 +95,7 @@ export default hopeTheme({
   },
 
   // 隐藏打印按钮
-  print: false,
+  print: true,
 
 
 
