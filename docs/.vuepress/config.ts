@@ -36,9 +36,9 @@ export default defineUserConfig({
   ],
 
   //设置限制字数复制
-
+  
   plugins: [
-    ['@vuepress/medium-zoom', { maxLength: 100 }]
+    ['@vuepress/medium-zoom', { disableCopy: true }],
   ],
 
 
