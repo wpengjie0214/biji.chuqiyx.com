@@ -1,5 +1,6 @@
 ---
-title: 直播入门攻略零 | 硬件篇：直播设备
+article: false
+title: 2直播入门攻略零 | 硬件篇：直播设备
 subtitle: 新手如何开直播？直播新手攻略：从小白入门到网红达人
 category:
   - 工具
