@@ -18,6 +18,8 @@ export default sidebar({
       children: [
         //电脑必备工具
         "computertool.md",
+        //电脑必备插件
+        "Plugin.md",
         //安装绘画软件
         "install.md",
         //AIGC精品导航
@@ -25,7 +27,7 @@ export default sidebar({
         {
           text: " 免费AIGC资料",
           icon: "plugin",
-          prefix: "mianfeiaigc/",
+          prefix: "免费AIGC资料/",
           link: "",
           collapsible: true,
           children: "structure",
