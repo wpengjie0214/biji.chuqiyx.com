@@ -1,6 +1,6 @@
 ---
 article: false
-title: Ai时代-社交帐号
+title: 关于我们
 icon: check
 ---
 
