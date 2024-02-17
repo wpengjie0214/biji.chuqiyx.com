@@ -217,9 +217,9 @@ export default sidebar({
     //Ai绘画-常见问题
     {
       text: "✅Ai绘画-常见问题",
-      icon: "info",
+      icon: "",
       prefix: "/aiwenti/",
-      link: "info",
+      link: "",
       collapsible: true,
       children: "structure",
     
