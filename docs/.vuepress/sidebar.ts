@@ -57,7 +57,7 @@ export default sidebar({
     //ChatGPT从入门到精通
      {
       text: "ChatGPT从入门到精通",
-      icon: "",
+      icon: "folder",
       prefix: "beginner/",
       link: "",
       collapsible: true,
@@ -66,7 +66,7 @@ export default sidebar({
      //ChatGPT高质量提示词
      {
       text: "ChatGPT高质量提示词",
-      icon: "",
+      icon: "folder",
       prefix: "callword/",
       link: "",
       collapsible: true,
@@ -75,7 +75,7 @@ export default sidebar({
       //ChatGPT实用场景案例
      {
       text: "ChatGPT实用场景案例",
-      icon: "",
+      icon: "folder",
       prefix: "gptcase/",
       link: "",
       collapsible: true,
@@ -97,7 +97,7 @@ export default sidebar({
         "bikan1.md",
         {
           text: " Win系统本地部署教程",
-          icon: "plugin",
+          icon: "folder",
           prefix: "sdwindows/",
           link: "",
           collapsible: true,
@@ -105,7 +105,7 @@ export default sidebar({
         },
         {
           text: " Mac系统本地部署教程",
-          icon: "load",
+          icon: "folder",
           prefix: "sdmacos/",
           link: "",
           collapsible: true,
@@ -113,7 +113,7 @@ export default sidebar({
         },
         {
           text: " 云端电脑部署安装教程",
-          icon: "load",
+          icon: "folder",
           prefix: "sdyunduan/",
           link: "",
           collapsible: true,
@@ -121,7 +121,7 @@ export default sidebar({
         },
         {
           text: " 干货&入门教程【免费】",
-          icon: "load",
+          icon: "folder",
           prefix: "sdrumenmf/",
           link: "",
           collapsible: true,
@@ -129,7 +129,7 @@ export default sidebar({
         },
         {
           text: " 入门到精通教程【付费】",
-          icon: "load",
+          icon: "folder",
           prefix: "sdjingtongsf/",
           link: "",
           collapsible: true,
@@ -137,7 +137,7 @@ export default sidebar({
         },
         {
           text: " 强烈推荐大模型合集",
-          icon: "load",
+          icon: "folder",
           prefix: "sddamoxing/",
           link: "",
           collapsible: true,
@@ -160,7 +160,7 @@ export default sidebar({
         "bikan1.md",
         {
           text: " Win系统本地部署教程",
-          icon: "plugin",
+          icon: "folder",
           prefix: "mjwindows/",
           link: "",
           collapsible: true,
@@ -168,7 +168,7 @@ export default sidebar({
         },
         {
           text: " Mac系统本地部署教程",
-          icon: "load",
+          icon: "folder",
           prefix: "mjmacos/",
           link: "",
           collapsible: true,
@@ -176,7 +176,7 @@ export default sidebar({
         },
         {
           text: " 干货&入门教程【免费】",
-          icon: "load",
+          icon: "folder",
           prefix: "mjrumenmf/",
           link: "",
           collapsible: true,
@@ -184,7 +184,7 @@ export default sidebar({
         },
         {
           text: " 入门到精通教程【付费】",
-          icon: "load",
+          icon: "folder",
           prefix: "mjjingtongsf/",
           link: "",
           collapsible: true,
@@ -206,7 +206,7 @@ export default sidebar({
         "bikan1.md",
         {
           text: " 项目1",
-          icon: "plugin",
+          icon: "folder",
           prefix: "xiangmu1/",
           link: "",
           collapsible: true,
