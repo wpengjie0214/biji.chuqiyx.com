@@ -1,6 +1,7 @@
 ---
 article: false
 title: 付费3
+icon: article
 category:
   - 工具
 tag:

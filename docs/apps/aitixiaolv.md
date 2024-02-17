@@ -1,7 +1,7 @@
 ---
 article: false
 title: AI提效率工具
-icon: list
+icon: cache
 order: 2
 ---
 

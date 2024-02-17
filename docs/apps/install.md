@@ -1,7 +1,7 @@
 ---
 article: false
 title: 绘画软件合集
-icon: list
+icon: cache
 order: 2
 ---
 

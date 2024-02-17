@@ -1,5 +1,6 @@
 ---
 title: 付费1
+icon: article
 subtitle: 付费122
 category:
   - 工具

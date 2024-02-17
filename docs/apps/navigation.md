@@ -1,7 +1,7 @@
 ---
 article: false
 title: AIGC精品导航
-icon: chrome
+icon: cache
 order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 article: false
 title: 电脑必备工具
-icon: float
+icon: cache
 order: 1
 ---
 

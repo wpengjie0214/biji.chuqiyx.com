@@ -28,7 +28,7 @@ export default sidebar({
         "navigation.md",
         {
           text: " 免费AIGC资料",
-          icon: "plugin",
+          icon: "copy",
           prefix: "mianfeiaigc/",
           link: "",
           collapsible: true,
@@ -36,7 +36,7 @@ export default sidebar({
         },
         {
           text: " 付费AIGC资料",
-          icon: "load",
+          icon: "copy",
           prefix: "fufeiaigc/",
           link: "",
           collapsible: true,

@@ -1,7 +1,7 @@
 ---
 article: false
 title: 电脑必备插件
-icon: list
+icon: cache
 order: 2
 ---
 
