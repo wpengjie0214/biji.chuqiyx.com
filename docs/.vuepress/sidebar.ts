@@ -27,16 +27,16 @@ export default sidebar({
         //AIGC精品导航
         "navigation.md",
         {
-          text: " 免费AIGC资料",
-          icon: "copy",
+          text: "📁免费AIGC资料",
+          icon: "",
           prefix: "mianfeiaigc/",
           link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: " 付费AIGC资料",
-          icon: "copy",
+          text: "📁付费AIGC资料",
+          icon: "",
           prefix: "fufeiaigc/",
           link: "",
           collapsible: true,

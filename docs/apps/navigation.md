@@ -1,7 +1,7 @@
 ---
 article: false
-title: AIGC精品导航
-icon: cache
+title: 📌AIGC精品导航
+icon: 
 order: 3
 ---
 

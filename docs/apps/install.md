@@ -1,7 +1,7 @@
 ---
 article: false
-title: 绘画软件合集
-icon: cache
+title: 💾绘画软件合集
+icon: 
 order: 2
 ---
 
