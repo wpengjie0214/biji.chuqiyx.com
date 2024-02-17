@@ -27,8 +27,8 @@ export default sidebar({
         //AIGC精品导航
         "navigation.md",
         {
-          text: "📁免费AIGC资料",
-          icon: "",
+          text: "免费AIGC资料",
+          icon: "folder",
           prefix: "mianfeiaigc/",
           link: "",
           collapsible: true,
@@ -74,8 +74,8 @@ export default sidebar({
      },
       //ChatGPT实用场景案例
      {
-      text: "ChatGPT实用场景案例",
-      icon: "folder",
+      text: "📁ChatGPT实用场景案例",
+      icon: "",
       prefix: "gptcase/",
       link: "",
       collapsible: true,
@@ -128,8 +128,8 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门到精通教程【付费】",
-          icon: "folder",
+          text: "📁入门到精通教程【付费】",
+          icon: "",
           prefix: "sdjingtongsf/",
           link: "",
           collapsible: true,
@@ -183,8 +183,8 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 入门到精通教程【付费】",
-          icon: "folder",
+          text: "📁入门到精通教程【付费】",
+          icon: "",
           prefix: "mjjingtongsf/",
           link: "",
           collapsible: true,
@@ -205,8 +205,8 @@ export default sidebar({
         //测试1
         "bikan1.md",
         {
-          text: " 项目1",
-          icon: "folder",
+          text: " 📁项目1",
+          icon: "",
           prefix: "xiangmu1/",
           link: "",
           collapsible: true,
@@ -217,9 +217,9 @@ export default sidebar({
     //Ai绘画-常见问题
     {
       text: "✅Ai绘画-常见问题",
-      icon: "",
+      icon: "info",
       prefix: "/aiwenti/",
-      link: "",
+      link: "info",
       collapsible: true,
       children: "structure",
     
