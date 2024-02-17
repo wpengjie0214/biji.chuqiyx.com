@@ -50,14 +50,14 @@ export default navbar([
     children: [
       {
         text: "官方网站",
-        icon: "categoryselected",
+        icon: "home",
         link: "/Aboutus.html#官方网站",
       },
       { text: "服务内容", icon: "categoryselected", link: "/Aboutus.html#服务内容" },
-      { text: "课程介绍", icon: "categoryselected", link: "/Aboutus.html#课程介绍" },
+      { text: "课程介绍", icon: "discover", link: "/Aboutus.html#课程介绍" },
       {
         text: "联系方式",
-        icon: "categoryselected",
+        icon: "call",
         link: "/Aboutus.html#联系方式",
       },
     ],
