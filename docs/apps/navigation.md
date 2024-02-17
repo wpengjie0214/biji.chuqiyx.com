@@ -1,7 +1,6 @@
 ---
 article: false
 title: 📌AIGC精品导航
-icon: 
 order: 3
 ---
 
