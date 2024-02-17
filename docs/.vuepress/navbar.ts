@@ -49,16 +49,16 @@ export default navbar([
     icon: "tool",
     children: [
       {
-        text: "个人简介",
+        text: "官方网站",
         icon: "creative",
-        link: "/Aboutus.html#个人简介",
+        link: "/Aboutus.html#官方网站",
       },
       { text: "服务内容", icon: "pic", link: "/Aboutus.html#服务内容" },
       { text: "课程介绍", icon: "others", link: "/Aboutus.html#课程介绍" },
       {
-        text: "官方网站",
+        text: "联系方式",
         icon: "categoryselected",
-        link: "/Aboutus.html#官方网站",
+        link: "/Aboutus.html#联系方式",
       },
     ],
   },
