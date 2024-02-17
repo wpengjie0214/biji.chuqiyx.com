@@ -15,7 +15,7 @@ export default navbar([
         link: "apps/computertool.html",
       },
       {
-        text: "chromeAIGC精品导航",
+        text: "AIGC精品导航",
         icon: "chrome",
         link: "apps/navigation.html",
       },
