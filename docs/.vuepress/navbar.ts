@@ -15,7 +15,7 @@ export default navbar([
         link: "apps/computertool.html",
       },
       {
-        text: "AIGC精品导航",
+        text: "chromeAIGC精品导航",
         icon: "chrome",
         link: "apps/navigation.html",
       },
@@ -26,12 +26,12 @@ export default navbar([
         children: [
           {
             text: "免费AIGC资料",
-            icon: "quote",
+            icon: "folder",
             link: "apps/mianfeiaigc/",
           },
           {
             text: "付费AIGC资料",
-            icon: "process",
+            icon: "folder",
             link: "apps/fufeiaigc/",
           },
         ],
