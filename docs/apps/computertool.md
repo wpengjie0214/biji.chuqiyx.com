@@ -4,6 +4,8 @@ title: 💥电脑必备工具
 order: 1
 ---
 
+> 以下绿色跳转下载链接大部分是软件官方可以直接下载安装使用，有的是分享出来的链接也可以直接下载使用，均为网络资源整合。
+
 ## 1.系统软件
 
 ### 火绒安全
@@ -11,30 +13,6 @@ order: 1
 **[<font color="*green*">点击下载【火绒安全】</font>](https://www.huorong.cn/)**
 
 功能全面，集“杀、防、管、控”于一身安静尽职，默默做好分内之事，不扰用户
-
-图片
-
-### CCleaner
-
-**[<font color="*green*">点击下载【CCleaner】</font>](https://www.ccleaner.com/zh-cn)**
-
-业界首选的 Windows PC 优化应用程序，让旧 PC 焕然如新，让新 PC 更长久地保持健康状态。
-
-图片
-
-### Bandzip
-
-**[<font color="*green*">点击下载【Bandzip】</font>](https://en.bandisoft.com/bandizip/)**
-
-Bandizip 是一款功能强大的归档程序，提供超快的处理速度和便捷的功能。
-
-图片
-
-### Geek Uninstaller
-
-**[<font color="*green*">点击下载【Geek Uninstaller】</font>](https://geekuninstaller.com/)**
-
-高效快速、小巧便携。100% 免费，执行深度、快速扫描并清除所有残留物。保持电脑清洁！
 
 图片
 
@@ -62,19 +40,67 @@ Google Chrome浏览器增强版，采用原版加入shuax便携式Dll劫持补�
 
 图片
 
+### Bandzip压缩
+
+**[<font color="*green*">点击下载【Bandzip压缩】</font>](https://en.bandisoft.com/bandizip/)**
+
+Bandizip 是一款功能强大的归档程序，提供超快的处理速度和便捷的功能。
+
+图片
+
+### CCleaner清理垃圾
+
+**[<font color="*green*">点击下载【CCleaner】</font>](https://www.ccleaner.com/zh-cn)**
+
+业界首选的 Windows PC 优化应用程序，让旧 PC 焕然如新，让新 PC 更长久地保持健康状态。
+
+图片
+
+### Geek Uninstaller强制卸载
+
+**[<font color="*green*">点击下载【Geek Uninstaller】</font>](https://geekuninstaller.com/)**
+
+高效快速、小巧便携。100% 免费，执行深度、快速扫描并清除所有残留物。保持电脑清洁！
+
+图片
+
 ## 2.办公软件
 
-### Everything
+### WPS office
 
-**[<font color="*green*">点击下载【Everything】</font>](https://www.voidtools.com/zh-cn/)**
+**[<font color="*green*">点击下载【WPS office】</font>](https://www.wps.com/)**
+
+WPS Office 套件对于商务专业人士、学生和教师来说是一个很好的帮助。它也是最方便的选择，因为它与 Microsoft Office、Google Docs 和 Adobe PDF 兼容。
+
+图片
+
+### Microsoft Office
+
+**[<font color="*green*">点击下载【Microsoft Office免激活精简版】</font>](https://www.lanzoux.com/ip8ZKf4idxi)**
+
+ Office 2010 精简版，简单方便，安装迅速，效果稳定，自带KMS激活！包括了 Word、Excel、PowerPoint等*软件*,是目前最为流行的*办公软件*之一。
+
+图片
+
+### Typora编辑器
+
+**[<font color="*green*">点击下载【Typora编辑器】</font>](https://xiaodao.lanzout.com/b0dtxy6of)**
+
+Typora中文版是一款Markdown编辑器及阅读器的文本编辑器.Typora破解版风格极简/多种主题/支持macOS,Windows及 Linux,实时预览/图片与文字/代码块/数学公式/图表 目录大纲/文件管理/导入与导出等..
+
+图片
+
+### 电脑文件查找
+
+**[<font color="*green*">点击下载【Everything文件查找】</font>](https://www.voidtools.com/zh-cn/)**
 
 基于名称快速定位文件和文件夹。轻量安装文件，干净简洁的用户界面快速文件索引...
 
 图片
 
-### cleverpdf
+### PDF 转换
 
-**[<font color="*green*">点击下载【cleverpdf】</font>](https://www.cleverpdf.com/)**
+**[<font color="*green*">点击下载【cleverpdfPDF 转换】</font>](https://www.cleverpdf.com/)**
 
 44 个强大且永久免费的在线 PDF 工具，将 PDF 转换为 Office、iWork、电子书、图像等。
 
@@ -87,37 +113,23 @@ Google Chrome浏览器增强版，采用原版加入shuax便携式Dll劫持补�
 
 图片
 
-### WPS office
+### XMind思维导图
 
-**[<font color="*green*">点击下载【WPS office】</font>](https://www.wps.com/)**
-
-WPS Office 套件对于商务专业人士、学生和教师来说是一个很好的帮助。它也是最方便的选择，因为它与 Microsoft Office、Google Docs 和 Adobe PDF 兼容。
-
-图片
-
-### Typora
-
-**[<font color="*green*">点击下载【Typora】</font>](https://xiaodao.lanzout.com/b0dtxy6of)**
-
-Typora中文版是一款Markdown编辑器及阅读器的文本编辑器.Typora破解版风格极简/多种主题/支持macOS,Windows及 Linux,实时预览/图片与文字/代码块/数学公式/图表 目录大纲/文件管理/导入与导出等..
-
-图片
-
-### XMind
-
-**[<font color="*green*">点击下载【XMind】</font>](https://pan.baidu.com/s/1qv9aXAkDSJXIoZyIMTbW8Q?pwd=tzc9 )**
+**[<font color="*green*">点击下载【XMind思维导图】</font>](https://pan.baidu.com/s/1qv9aXAkDSJXIoZyIMTbW8Q?pwd=tzc9 )**
 
 XMind Zen 作为一个重新设计的新版本，不但具备 XMind 全面的思维导图功能，同时还有重新设计的界面和交互方式。和较先推出的 iOS 版本使用了一样的设计语言，可以通过存储文件在 iCloud Drive 和 iOS 版本配套使用。目前 XMind Zen 已经正式发布，我们来看一下这个新客户端用起来具体如何。
 
 图片
 
-## 3.聊天软件
+### FSCapture截图工具
 
-### 微信
+**[<font color="*green*">点击下载【FSCapture截图工具】</font>](https://www.lanzoux.com/b0dq7942h)**
 
-### QQ
+这是一款体积小巧、功能强大、简单易用的屏幕捕捉工具，集屏幕截图、图像编辑、视频录制功能于一身。它可以捕捉屏幕上的任何区域，提供多种捕获方式（如：活动窗口、指定窗口/对象、矩形区域、手绘区域、整个屏幕、滚动窗口等），还附带屏幕录像机、放大镜、取色器、标尺等辅助功能。
 
-## 4.影视软件
+图片
+
+## 3.媒体工具
 
 ### Potplayer播放器
 
@@ -127,21 +139,13 @@ XMind Zen 作为一个重新设计的新版本，不但具备 XMind 全面的思
 
 图片
 
-
-
-## 5.视觉设计
+## 4.图像处理
 
 ### 美图秀秀
 
 ### Photoshop 2024
 
-## 6.学习工具
-
-1
-
-## 7.效率工具
-
-1
+## 5.效率工具
 
 ### 下载利器IDM
 
@@ -151,7 +155,7 @@ Internet Download Manager (简称IDM) 是一款Windows 平台功能强大的多�
 
 图片
 
-## 8.网盘存储
+## 6.网盘存储
 
 ### 阿里云盘
 
@@ -163,18 +167,12 @@ Internet Download Manager (简称IDM) 是一款Windows 平台功能强大的多�
 
 ### 夸克网盘
 
-
+1
 
 ### 奶牛快传
 
 **[<font color="*green*">点击下载【奶牛快传】</font>](https://cowtransfer.com/)**
 
 传输上传下载不限速，免费空间5g可以临时使用
-
-
-
-
-
-> tampermonkey
 
 ### 
