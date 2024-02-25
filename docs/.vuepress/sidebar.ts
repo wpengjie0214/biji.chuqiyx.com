@@ -224,7 +224,30 @@ export default sidebar({
       children: "structure",
     
     },
+
+    //Ai直播-获取渠道
+    {
+      text: "✅Ai直播-获取渠道",
+      icon: "",
+      prefix: "/aizhibo/",
+      link: "",
+      collapsible: true,
+      children: [
+        //获取方式【必看】
+        "bikan1.md",
+        {
+          text: " 📁直播内容",
+          icon: "",
+          prefix: "neirong/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+      ],
+    },
+
     //Ai教程-实用教程
+    /*
     {
       text: "✅Ai副业-变现教程",
       //icon: "blog",
@@ -234,6 +257,7 @@ export default sidebar({
       children: "structure",
 
     },
+    */
   ],
   // 独立功能区
   "/services/dockers-on-nas/": "structure",
