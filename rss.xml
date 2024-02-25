@@ -4,10 +4,10 @@
     <atom:link href="http://biji.chuqiyx.com/rss.xml" rel="self" type="application/rss+xml"/>
     <title>壹柒學AI知识文档</title>
     <link>http://biji.chuqiyx.com/</link>
-    <description>小柒日常笔记知识文档,记录并输出优质的笔记内容和小伙伴们共同提升Ai带给我们的爱好与技能。</description>
+    <description>小柒日常AI知识文档收集整理,记录并输出优质的笔记内容和小伙伴们共同提升Ai带给我们的爱好与技能。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Feb 2024 05:14:04 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Feb 2024 05:14:04 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Feb 2024 05:45:10 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Feb 2024 05:45:10 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
