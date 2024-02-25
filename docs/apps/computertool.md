@@ -12,7 +12,7 @@ https://www.huorong.cn/
 
 [点击下载火绒](https://www.huorong.cn/)
 
-![2024-02-25_143005](F:\GitHub\Documents\biji.chuqiyx.com\docs\apps\2024-02-25_143005-1708843069858.png)
+图片
 
 - 无任何具有广告推广性质的弹窗和捆绑等打扰用户行为
 
