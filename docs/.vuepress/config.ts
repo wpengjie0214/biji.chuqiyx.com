@@ -9,7 +9,7 @@ export default defineUserConfig({
   // 网站语言，默认为中文
   lang: "zh-CN",
   // 网站标题
-  title: "小柒笔记",
+  title: "壹柒學AI知识文档",
   // 网站描述
   description: "小柒日常笔记知识文档,记录并输出优质的笔记内容和小伙伴们共同提升Ai带给我们的爱好与技能。",
 
