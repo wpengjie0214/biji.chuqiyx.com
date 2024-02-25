@@ -4,65 +4,112 @@ title: 💥电脑必备工具
 order: 1
 ---
 
-https://www.huorong.cn/
-
-- [案例跳转链接](https://www.baidu.com)：
-
 ### 1.系统软件
 
-**[<font color="*green*">点击下载【火绒】</font>](https://www.huorong.cn/)**
+#### 火绒安全
+
+**[<font color="*green*">点击下载【火绒安全】</font>](https://www.huorong.cn/)**
+
+功能全面，集“杀、防、管、控”于一身安静尽职，默默做好分内之事，不扰用户
 
 图片
 
-- 无任何具有广告推广性质的弹窗和捆绑等打扰用户行为
+#### CCleaner
 
-- 占用资源少，不影响日常办公、游戏
+**[<font color="*green*">点击下载【CCleaner】</font>](https://www.ccleaner.com/zh-cn)**
 
-- 一键下载，安装后使用默认配置即可获得安全防护
+业界首选的 Windows PC 优化应用程序，让旧 PC 焕然如新，让新 PC 更长久地保持健康状态。
 
-- 产品性能历经数次优化，兼容性好，运行流畅
+图片
 
-- 文件实时监控：程序运行前及时扫描，拦截病毒。
+#### Bandzip
 
-- U盘保护：对接入电脑的U第一时间进行扫描。
+**[<font color="*green*">点击下载【Bandzip】</font>](https://en.bandisoft.com/bandizip/)**
 
-- 应用加固：对浏览器、办公软件、设计软件等程序进行保护。
+Bandizip 是一款功能强大的归档程序，提供超快的处理速度和便捷的功能。
 
-- 软件安装拦截：实时监控并提示软件安装行为。
+图片
 
-- 浏览器保护：保护您常用的浏览器与搜索引擎不被篡改。
+#### Geek Uninstaller
 
-- 网络入侵拦截：阻止病毒、黑客通过系统漏洞进入电脑，并解析出攻击源IP地址。
+**[<font color="*green*">点击下载【Geek Uninstaller】</font>](https://geekuninstaller.com/)**
 
-- 暴破攻击防护：阻止黑客通过弱口令暴破入侵系统
+高效快速、小巧便携。100% 免费，执行深度、快速扫描并清除所有残留物。保持电脑清洁！
 
-  ......
+图片
 
-[点击下载CCleaner](https://www.ccleaner.com/zh-cn)
+#### 360极速浏览器
 
+**[<font color="*green*">点击下载【360极速浏览器】</font>](https://browser.360.cn/ee/)**
 
+博主在实用，我个人比较还是挺喜欢用360极速浏览器的，虽然我不用360杀毒软件这些，但是这个极速浏览器可以推荐给大家实用下，使用也特别顺手，没有广告打扰
 
-Bandzip
+图片
 
-Geek uninstaller
+#### Edge浏览器
 
-360极速浏览器
+**[<font color="*green*">点击下载【Edge浏览器】</font>](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ)**
 
-EDGE浏览器
+Microsoft *Edge*是适用于Windows的一款卓越*浏览器*。下载适用于 Windows 11 ...  功能可用性和功能特性可能会导致设备类型、市场和*浏览器*版本不同而有所差异。
+
+图片
+
+#### Google浏览器
+
+**[<font color="*green*">点击下载【Google浏览器】</font>](https://xiaodao.lanzoux.com/b0dq8p9sf)**
+
+Google Chrome浏览器增强版，采用原版加入shuax便携式Dll劫持补丁打包而成，Chrome++增强软件模块，强制实现flash插件支持，解除Adobe Flash Player地区不相容限制和移除警告提示，增强标签页功能。
+
+图片
 
 ### 2.办公软件
 
-Wallpaper
+#### Everything
 
-everything
+**[<font color="*green*">点击下载【Everything】</font>](https://www.voidtools.com/zh-cn/)**
 
-cleverpdf
+基于名称快速定位文件和文件夹。轻量安装文件，干净简洁的用户界面快速文件索引...
 
-WPS office
+图片
 
-讯读pdf大师
+#### cleverpdf
 
-IDM
+**[<font color="*green*">点击下载【cleverpdf】</font>](https://www.cleverpdf.com/)**
+
+44 个强大且永久免费的在线 PDF 工具，将 PDF 转换为 Office、iWork、电子书、图像等。
+
+#### PDF去水印
+
+**[<font color="*green*">点击下载【PDF去水印】</font>](https://wpn.lanzouu.com/i8JlN1g7f4dc)**
+
+加水印：文档加水印可以直接给word文档操作。直接转成PDF，水印加强功能，能有效避免被工具一键去除水印。再也不用担心自己的资料被别人白嫖了。。。
+去水印：不仅可以去掉传统意义的水印，增加了二维码水印去除功能。也可以去掉扫描件的水印。具体自己可以操作
+
+图片
+
+#### WPS office
+
+**[<font color="*green*">点击下载【WPS office】</font>](https://www.wps.com/)**
+
+WPS Office 套件对于商务专业人士、学生和教师来说是一个很好的帮助。它也是最方便的选择，因为它与 Microsoft Office、Google Docs 和 Adobe PDF 兼容。
+
+图片
+
+#### Typora
+
+**[<font color="*green*">点击下载【Typora】</font>](https://xiaodao.lanzout.com/b0dtxy6of)**
+
+Typora中文版是一款Markdown编辑器及阅读器的文本编辑器.Typora破解版风格极简/多种主题/支持macOS,Windows及 Linux,实时预览/图片与文字/代码块/数学公式/图表 目录大纲/文件管理/导入与导出等..
+
+图片
+
+#### XMind
+
+**[<font color="*green*">点击下载【XMind】</font>](https://pan.baidu.com/s/1qv9aXAkDSJXIoZyIMTbW8Q?pwd=tzc9 )**
+
+XMind Zen 作为一个重新设计的新版本，不但具备 XMind 全面的思维导图功能，同时还有重新设计的界面和交互方式。和较先推出的 iOS 版本使用了一样的设计语言，可以通过存储文件在 iCloud Drive 和 iOS 版本配套使用。目前 XMind Zen 已经正式发布，我们来看一下这个新客户端用起来具体如何。
+
+图片
 
 ### 3.聊天软件
 
@@ -72,27 +119,59 @@ QQ
 
 ### 4.影视软件
 
-Listen
+#### Potplayer播放器
 
-Potplayer
+**[<font color="*green*">点击下载【Potplayer】</font>](https://softdl.360tpcdn.com/auto/20240103/10221_443b489c452b4b8e52640f8e6671a55e.exe )**
+
+强大解码，纯粹为播放而生，纯净无捆绑，安全稳定支持海量格式，支持杜比视界、超高清4K、蓝光HDR，自定义播放器配置、窗口样式
+
+图片
+
+
 
 ### 5.视觉设计
 
+美图秀秀
 
+#### Photoshop 2024
 
 ### 6.学习工具
 
+1
+
 ### 7.效率工具
+
+1
+
+#### 下载利器IDM
+
+**[<font color="*green*">点击下载【下载利器IDM】</font>](https://xiaodao.lanzoux.com/b0dpuinvg)**
+
+Internet Download Manager (简称IDM) 是一款Windows 平台功能强大的多线程下载工具，国外非常受欢迎。支持断点续传，支持嗅探视频音频，接管所有浏览器，具有站点抓取、批量下载队列、计划任务下载，自动识别文件名、静默下载、网盘下载支持等功能。
+
+图片
 
 ### 8.网盘存储
 
-阿里云盘
+#### 阿里云盘
 
-夸克网盘
+**[<font color="*green*">点击下载【阿里云盘】</font>](https://pages.aliyundrive.com/mobile-page/web/signup.html?code=ac3e345)**
 
-奶牛快传
+加入阿里云盘达人招募计划，参与享最高50TB容量、延期卡等福利
 
-### 
+阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。
+
+#### 夸克网盘
+
+
+
+#### 奶牛快传
+
+**[<font color="*green*">点击下载【奶牛快传】</font>](https://cowtransfer.com/)**
+
+传输上传下载不限速，免费空间5g可以临时使用
+
+
 
 
 
