@@ -120,7 +120,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: " 强烈推荐大模型合集",
+          text: " 大模型合集啦",
           icon: "folder",
           prefix: "sddamoxing/",
           link: "",
