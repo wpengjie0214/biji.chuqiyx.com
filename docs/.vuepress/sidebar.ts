@@ -45,38 +45,38 @@ export default sidebar({
       ],
 
     },
-    //Ai写作-ChatGPT
+    //Ai魔法-提示词
 
     {
-      text: "✅Ai写作-ChatGPT",
+      text: "✅Ai魔法-提示词",
       icon: "",
-      prefix: "/gpt/",
+      prefix: "/tsc/",
       link: "",
       collapsible: true,
       children: [
-    //ChatGPT从入门到精通
+    //ai写作
      {
-      text: "ChatGPT从入门到精通",
+      text: "Ai写作",
       icon: "folder",
-      prefix: "beginner/",
+      prefix: "writing/",
       link: "",
       collapsible: true,
       children: "structure",
      },
-     //ChatGPT高质量提示词
+     //SD提示词
      {
-      text: "ChatGPT高质量提示词",
+      text: "SD提示词",
       icon: "folder",
-      prefix: "callword/",
+      prefix: "sd/",
       link: "",
       collapsible: true,
       children: "structure",
      },
-      //ChatGPT实用场景案例
+      //MJ提示词
      {
-      text: "ChatGPT实用场景案例",
+      text: "MJ提示词",
       icon: "folder",
-      prefix: "gptcase/",
+      prefix: "mj/",
       link: "",
       collapsible: true,
       children: "structure",
@@ -96,41 +96,25 @@ export default sidebar({
         //教程前言【必看】
         "bikan1.md",
         {
-          text: " Win系统本地部署教程",
+          text: " 初学者小画家",
           icon: "folder",
-          prefix: "sdwindows/",
+          prefix: "sdxhj/",
           link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: " Mac系统本地部署教程",
+          text: "进阶者狂想家",
           icon: "folder",
-          prefix: "sdmacos/",
+          prefix: "sdkxj/",
           link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: " 云端电脑部署安装教程",
+          text: "专家级魔法师",
           icon: "folder",
-          prefix: "sdyunduan/",
-          link: "",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: " 干货&入门教程【免费】",
-          icon: "folder",
-          prefix: "sdrumenmf/",
-          link: "",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: " 入门到精通教程【付费】",
-          icon: "folder",
-          prefix: "sdjingtongsf/",
+          prefix: "sdmfs/",
           link: "",
           collapsible: true,
           children: "structure",
@@ -158,34 +142,27 @@ export default sidebar({
       children: [
         //教程前言【必看】
         "bikan1.md",
-        {
-          text: " Win系统本地部署教程",
+
+         {
+          text: " 初学者小画家",
           icon: "folder",
-          prefix: "mjwindows/",
+          prefix: "mjxhj/",
           link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: " Mac系统本地部署教程",
+          text: "进阶者狂想家",
           icon: "folder",
-          prefix: "mjmacos/",
+          prefix: "mjkxj/",
           link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: " 干货&入门教程【免费】",
+          text: "专家级魔法师",
           icon: "folder",
-          prefix: "mjrumenmf/",
-          link: "",
-          collapsible: true,
-          children: "structure",
-        },
-        {
-          text: " 入门到精通教程【付费】",
-          icon: "folder",
-          prefix: "mjjingtongsf/",
+          prefix: "mjmfs/",
           link: "",
           collapsible: true,
           children: "structure",
@@ -194,9 +171,9 @@ export default sidebar({
 
     },
 
-    //Ai项目-落地案例
+    //Ai项目-精品案例
     {
-      text: "✅Ai项目-落地案例",
+      text: "✅Ai项目-精品案例",
       icon: "",
       prefix: "/aixm/",
       link: "",
