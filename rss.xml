@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="http://biji.chuqiyx.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>壹柒學AI知识文档</title>
+    <title>壹柒學AI-知识库</title>
     <link>http://biji.chuqiyx.com/</link>
     <description>小柒日常AI知识文档收集整理,记录并输出优质的笔记内容和小伙伴们共同提升Ai带给我们的爱好与技能。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Mar 2024 12:38:52 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Mar 2024 12:38:52 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2024 14:00:36 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2024 14:00:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
