@@ -65,11 +65,11 @@ order: 2
 
 <hr>
 
-- 壹柒學Ai官方→**[点击进入](https://17xueai.top/)**
-- 绘画广场→**[点击加入圈子](https://17xueai.top/circle/square)**
-- 模型插件整合→**[点击加入圈子](https://17xueai.top/circle/sdmodels)**
-- 绘画软件工具→**[点击加入圈子](https://17xueai.top/circle/software)**
-- 疑难问题讨论→**[点击加入圈子](https://17xueai.top/circle/questions)**
+- 壹柒學Ai官方→[点击进入](https://17xueai.top/)
+- 绘画广场→[点击加入圈子](https://17xueai.top/circle/square)
+- 模型插件整合→[点击加入圈子](https://17xueai.top/circle/sdmodels)
+- 绘画软件工具→[点击加入圈子](https://17xueai.top/circle/software)
+- 疑难问题讨论→[点击加入圈子](https://17xueai.top/circle/questions)
 - **注意：以上圈子均为免费加入，免费加入，免费加入，在里面可以找到你想要的！**
 
 ****
