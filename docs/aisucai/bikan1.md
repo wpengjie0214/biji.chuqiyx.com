@@ -1,7 +1,7 @@
 ---
 article: false
 title: 入门1
-icon: editor
+icon: info
 order: 1
 ---
 

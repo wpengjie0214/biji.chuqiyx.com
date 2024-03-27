@@ -24,20 +24,20 @@ export default sidebar({
         "aitixiaolv.md",
         //绘画软件合集
         "install.md",
-        //AIGC精品导航
+        //壹柒学Ai素材库
         "navigation.md",
         {
-          text: "📁免费AIGC资料",
+          text: "📁进阶者资料",
           icon: "",
-          prefix: "mianfeiaigc/",
+          prefix: "jinjieaigc/",
           link: "",
           collapsible: true,
           children: "structure",
         },
         {
-          text: "📁付费AIGC资料",
+          text: "📁大师级资料",
           icon: "",
-          prefix: "fufeiaigc/",
+          prefix: "dashiaigc/",
           link: "",
           collapsible: true,
           children: "structure",
@@ -56,7 +56,7 @@ export default sidebar({
       children: [
     //ai写作
      {
-      text: "Ai写作",
+      text: "ChatGPT写作",
       icon: "folder",
       prefix: "writing/",
       link: "",
@@ -65,18 +65,9 @@ export default sidebar({
      },
      //SD提示词
      {
-      text: "SD提示词",
+      text: "MJ|SD提示词",
       icon: "folder",
-      prefix: "sd/",
-      link: "",
-      collapsible: true,
-      children: "structure",
-     },
-      //MJ提示词
-     {
-      text: "MJ提示词",
-      icon: "folder",
-      prefix: "mj/",
+      prefix: "sdmj/",
       link: "",
       collapsible: true,
       children: "structure",
@@ -87,7 +78,7 @@ export default sidebar({
     //Ai绘画-Stable difussion
 
     {
-      text: "✅Ai绘画-Stable difussion",
+      text: "✅Ai绘画-StableDifussion",
       icon: "",
       prefix: "/aisd/",
       link: "",
@@ -95,6 +86,7 @@ export default sidebar({
       children: [
         //教程前言【必看】
         "bikan1.md",
+        /**
         {
           text: " 初学者小画家",
           icon: "folder",
@@ -103,6 +95,7 @@ export default sidebar({
           collapsible: true,
           children: "structure",
         },
+        **/
         {
           text: "进阶者狂想家",
           icon: "folder",
@@ -112,7 +105,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "专家级魔法师",
+          text: "大师级魔法师",
           icon: "folder",
           prefix: "sdmfs/",
           link: "",
@@ -142,7 +135,7 @@ export default sidebar({
       children: [
         //教程前言【必看】
         "bikan1.md",
-
+        /**
          {
           text: " 初学者小画家",
           icon: "folder",
@@ -151,6 +144,7 @@ export default sidebar({
           collapsible: true,
           children: "structure",
         },
+        **/
         {
           text: "进阶者狂想家",
           icon: "folder",
@@ -160,7 +154,7 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "专家级魔法师",
+          text: "大师级魔法师",
           icon: "folder",
           prefix: "mjmfs/",
           link: "",
@@ -170,10 +164,28 @@ export default sidebar({
       ],
 
     },
-
-    //Ai项目-精品案例
+    //壹柒学Ai素材库
     {
-      text: "✅Ai项目-精品案例",
+      text: "✅壹柒学Ai-兵器库",
+      icon: "",
+      prefix: "/aibinqiku/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    
+    },
+    //壹柒学Ai素材库
+    {
+      text: "✅壹柒学Ai-素材库",
+      icon: "",
+      prefix: "/aisucai/",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    },
+    //壹柒学-精品案例
+    {
+      text: "✅壹柒学Ai-Ai项目",
       icon: "",
       prefix: "/aixm/",
       link: "",
@@ -191,17 +203,6 @@ export default sidebar({
         },
       ],
     },
-    //Ai绘画-常见问题
-    {
-      text: "✅Ai绘画-常见问题",
-      icon: "",
-      prefix: "/aiwenti/",
-      link: "",
-      collapsible: true,
-      children: "structure",
-    
-    },
-
     //Ai直播-获取渠道
     {
       text: "✅Ai直播-获取渠道",
