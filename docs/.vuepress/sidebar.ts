@@ -10,7 +10,7 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "✅Ai手册-工具资料",
+      text: "✅壹柒学Ai-工具资料",
       icon: "",
       prefix: "/apps/",
       link: "",
@@ -48,7 +48,7 @@ export default sidebar({
     //Ai魔法-提示词
 
     {
-      text: "✅Ai魔法-提示词",
+      text: "✅壹柒学Ai-提示词",
       icon: "",
       prefix: "/tsc/",
       link: "",
@@ -78,7 +78,7 @@ export default sidebar({
     //Ai绘画-Stable difussion
 
     {
-      text: "✅Ai绘画-StableDifussion",
+      text: "✅壹柒学Ai-SD绘画",
       icon: "",
       prefix: "/aisd/",
       link: "",
@@ -127,7 +127,7 @@ export default sidebar({
     //Ai绘画-Midjourney
 
     {
-      text: "✅Ai绘画-Midjourney",
+      text: "✅壹柒学Ai-MJ绘画",
       icon: "",
       prefix: "/aimj/",
       link: "",

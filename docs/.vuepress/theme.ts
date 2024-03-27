@@ -11,8 +11,8 @@ export default hopeTheme({
   iconAssets: "iconfont",
 
   author: {
-    name: "初柒",
-    url: "http://biji.chuqiyx.com",
+    name: "小柒",
+    url: "https://blog.17xueai.top",
   },
 
   logo: "/logo.svg",
