@@ -10,7 +10,7 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "✅壹柒学Ai-工具资料",
+      text: "✅壹柒学Ai-工具库",
       icon: "",
       prefix: "/apps/",
       link: "",
@@ -22,10 +22,22 @@ export default sidebar({
         "Plugin.md",
         //AI提效率工具
         "aitixiaolv.md",
-        //绘画软件合集
-        "install.md",
-        //壹柒学Ai素材库
-        "navigation.md",
+         {
+          text: "📁新人大礼包",
+          icon: "",
+          prefix: "xinrendalibao/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "📁大师级资料",
+          icon: "",
+          prefix: "dashiaigc/",
+          link: "",
+          collapsible: true,
+          children: "structure",
+        },
         {
           text: "📁进阶者资料",
           icon: "",
