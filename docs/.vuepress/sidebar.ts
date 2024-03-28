@@ -31,14 +31,6 @@ export default sidebar({
           children: "structure",
         },
         {
-          text: "📁大师级资料",
-          icon: "",
-          prefix: "dashiaigc/",
-          link: "",
-          collapsible: true,
-          children: "structure",
-        },
-        {
           text: "📁进阶者资料",
           icon: "",
           prefix: "jinjieaigc/",
