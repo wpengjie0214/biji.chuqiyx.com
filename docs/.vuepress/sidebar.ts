@@ -16,7 +16,7 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
-        //电脑必备工具1
+        //电脑必备工具221111
         "computertool.md",
         //电脑必备插件2
         "Plugin.md",
