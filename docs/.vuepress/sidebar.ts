@@ -10,7 +10,7 @@ export default sidebar({
     // 指定显示页面
     //Ai工具-应用手册
     {
-      text: "✅壹柒学Ai-工具库",
+      text: "✅壹柒学Ai-工具11111库",
       icon: "",
       prefix: "/apps/",
       link: "",
